@@ -1,18 +1,23 @@
 # Awesome VL
 A curated collection of libraries, resources and examples for vvvv and VL.
 
-### Table of Content
+## Table of Content
 
 - [Libraries](#libraries)
   - [Rendering](#rendering)
 - [Tutorials](#tutorials)
 
-## Websites
+## Resources
+
+## Official websites
 
 * [visualprogramming.net](https://visualprogramming.net) - The official website for vvvv gamma
 * [vvvv.org](https://vvvv.org) - The old website for vvvv beta
 * [Forum](https://discourse.vvvv.org) - The official forum
 * [The Gray Book](https://thegraybook.vvvv.org) - The official documentation
+
+### Articles
+* [About vvvv gamma](https://thenodeinstitute.org/about-vvvv-gamma/)
 
 ## Libraries
 
@@ -26,7 +31,7 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 * [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition in vvvv
 * [VL.AutomataUI](https://github.com/wirmachenbunt/AutomataUI.NET) - A finite statemachine editor for .NET
 
-## Resources
+## Learning
 
 ### Tutorial nugets
 
@@ -36,6 +41,10 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 ### Tutorial videos
 
 * [Model Runtime Editor Design Pattern](https://vvvv.org/contribution/model-runtime-editor-design-pattern) - A convenient way to structure your software and build a flexible app architecture.
+
+### Institutes
+
+* [The NODE Institute](https://thenodeinstitute.org/)
 
 ### Courses
 
