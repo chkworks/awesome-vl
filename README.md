@@ -7,17 +7,12 @@ A curated collection of libraries, resources and examples for vvvv and VL.
   - [Rendering](#rendering)
 - [Tutorials](#tutorials)
 
-## Resources
-
 ## Official websites
 
 * [visualprogramming.net](https://visualprogramming.net) - The official website for vvvv gamma
 * [vvvv.org](https://vvvv.org) - The old website for vvvv beta
 * [Forum](https://discourse.vvvv.org) - The official forum
 * [The Gray Book](https://thegraybook.vvvv.org) - The official documentation
-
-### Articles
-* [About vvvv gamma](https://thenodeinstitute.org/about-vvvv-gamma/)
 
 ## Libraries
 
@@ -53,6 +48,12 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 ### Forum threads
 
 * [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about VL implementations of the book "Head First Design Patterns"
+
+## Resources
+
+### Articles
+
+* [About vvvv gamma](https://thenodeinstitute.org/about-vvvv-gamma/)
 
 ## Made with VL
 
