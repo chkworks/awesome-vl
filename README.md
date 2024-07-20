@@ -1,12 +1,10 @@
 # Awesome VL
 A curated collection of libraries, resources and tutorials for vvvv and VL
 
-## Content
-- [Awesome Python](#awesome-python)
-    - [Admin Panels](#admin-panels)
-    - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
-    - [ASGI Servers](#asgi-servers)
-    - [Asynchronous Programming](#asynchronous-programming)
+- [Admin Panels](#admin-panels)
+- [Algorithms and Design Patterns](#algorithms-and-design-patterns)
+- [ASGI Servers](#asgi-servers)
+- [Asynchronous Programming](#asynchronous-programming)
 
 ## Admin Panels
 
