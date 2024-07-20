@@ -7,6 +7,13 @@ A curated collection of libraries, resources and examples for vvvv and VL.
   - [Rendering](#rendering)
 - [Tutorials](#tutorials)
 
+## Websites
+
+* [visualprogramming.net](https://visualprogramming.net) - The official website for vvvv gamma
+* [vvvv.org](https://vvvv.org) - The old website for vvvv beta
+* [Forum](https://discourse.vvvv.org) - The official forum
+* [The Gray Book](https://thegraybook.vvvv.org) - The official documentation
+
 ## Libraries
 
 ### Rendering
@@ -19,7 +26,7 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 * [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition in vvvv
 * [VL.AutomataUI](https://github.com/wirmachenbunt/AutomataUI.NET) - A finite statemachine editor for .NET
 
-## Learning
+## Resources
 
 ### Tutorial nugets
 
@@ -28,13 +35,15 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 
 ### Tutorial videos
 
+* [Model Runtime Editor Design Pattern](https://vvvv.org/contribution/model-runtime-editor-design-pattern) - A convenient way to structure your software and build a flexible app architecture.
+
 ### Courses
 
-## Resources
-
-### Websites
+* [Game Logic](https://thenodeinstitute.org/courses/ss23-vvvv-game-logic/)
 
 ### Forum threads
+
+* [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about VL implementations of the book "Head First Design Patterns"
 
 ## Made with VL
 
