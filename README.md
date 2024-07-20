@@ -1,21 +1,20 @@
 # Awesome VL
-A curated collection of libraries, resources and tutorials for vvvv and VL
+A curated collection of libraries, resources and examples for vvvv and VL
 
 ### Table of Content
 
-- [Admin Panels](#admin-panels)
-- [Algorithms and Design Patterns](#algorithms-and-design-patterns)
-- [ASGI Servers](#asgi-servers)
-- [Asynchronous Programming](#asynchronous-programming)
+- [Libraries](#libraries)
+  - [Rendering](#rendering)
+- [Tutorials](#tutorials)
 
-## Admin Panels
+## Libraries
 
-*Libraries for administrative interfaces.*
+### Rendering
 
-* [ajenti](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
-* [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface.
-* [flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask.
-* [flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
-* [jet-bridge](https://github.com/jet-admin/jet-bridge) - Admin panel framework for any application with nice UI (ex Jet Django).
-* [wooey](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
-* [streamlit](https://github.com/streamlit/streamlit) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
+* [VL.Skia](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Skia) - 2D rendering engine
+* [VL.Stride](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride) - 3D game and rendering engine
+
+## Tutorials
+
+* [VL.TheBigBang](https://github.com/chkworks/VL.TheBigBang) - A tutorial series of 42 chapters, covering all nodes and techniques to get you started with the visual programming environment vvvv.
+* [VL.ExtendedTutorials](https://github.com/TobyKLight/VL.ExtendedTutorials) -  Extended tutorial help patches for vvvv gamma, covering common questions as learners move from beginner towards intermediate. 
