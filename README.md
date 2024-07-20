@@ -8,9 +8,7 @@ A curated collection of libraries, resources and tutorials for vvvv and VL
     - [ASGI Servers](#asgi-servers)
     - [Asynchronous Programming](#asynchronous-programming)
 
----
-
-#### Admin Panels
+## Admin Panels
 
 *Libraries for administrative interfaces.*
 
