@@ -13,6 +13,7 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 * [vvvv.org](https://vvvv.org) - The old website for vvvv beta
 * [Forum](https://discourse.vvvv.org) - The official forum
 * [The Gray Book](https://thegraybook.vvvv.org) - The official documentation
+* [VL-Language](https://github.com/vvvv/VL-Language) -  The official repo for the design of the VL programming language 
 
 ## Libraries
 
@@ -28,12 +29,12 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 
 ## Learning
 
-### Tutorial nugets
+### Tutorial NuGets
 
 * [VL.TheBigBang](https://github.com/chkworks/VL.TheBigBang) - A tutorial series of 42 chapters, covering all nodes and techniques to get you started with the visual programming environment vvvv.
 * [VL.ExtendedTutorials](https://github.com/TobyKLight/VL.ExtendedTutorials) -  Extended tutorial help patches for vvvv gamma, covering common questions as learners move from beginner towards intermediate.
 
-### Tutorial videos
+### Tutorial Videos
 
 * [Model Runtime Editor Design Pattern](https://vvvv.org/contribution/model-runtime-editor-design-pattern) - A convenient way to structure your software and build a flexible app architecture.
 
@@ -45,11 +46,13 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 
 * [Game Logic](https://thenodeinstitute.org/courses/ss23-vvvv-game-logic/)
 
-### Forum threads
+### Forum Threads
 
 * [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about VL implementations of the book "Head First Design Patterns"
 
 ## Resources
+
+### 
 
 ### Articles
 
