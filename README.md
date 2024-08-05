@@ -1,16 +1,6 @@
 # Awesome VL
 A curated collection of libraries, resources and examples for vvvv and VL.
 
-## Table of Content
-
-- [Official Channels](#official-channels)
-- [Libraries](#libraries)
-  - [Rendering](#rendering)
-  - [UI](#ui)
-  - [Control](#control)
-  - [Audio](#audio)
-- [Tutorials](#tutorials)
-
 ## Official Channels
 
 * [visualprogramming.net](https://visualprogramming.net) - The official website for vvvv gamma
