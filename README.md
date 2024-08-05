@@ -3,8 +3,12 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 
 ## Table of Content
 
+- [Official Channels](#official-channels)
 - [Libraries](#libraries)
   - [Rendering](#rendering)
+  - [UI](#ui)
+  - [Control](#control)
+  - [Audio](#audio)
 - [Tutorials](#tutorials)
 
 ## Official Channels
@@ -65,14 +69,15 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 
 ### Online Courses
 
-* 
+* [The Stride Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-stride-bundle/)
+* [The Fuse Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-fuse-bundle/)
 * [Game Logic](https://thenodeinstitute.org/courses/ss23-vvvv-game-logic/)
 
 ### Forum Threads
 
 * [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about VL implementations of the book "Head First Design Patterns"
 
-## Made with VL
+## Software made with VL
 
 * [GammaLauncher](https://github.com/sebescudie/GammaLauncher) - A simple launcher for vvvv gamma
 * [Schema](https://github.com/domjancik/scnq-schema) - An intuitive visual programming interface and runtime
