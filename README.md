@@ -19,12 +19,21 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 ## Libraries
 
 * [VL.StandardLibs](https://github.com/vvvv/VL.StandardLibs) -  A collection of standard libraries for vvvv including VL.Stride, VL.Skia, VL.ImGui, msgpack.org[VL] 
+* [VL.CoreLib](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.CoreLib) - The main vvvv core library
+* [VL.Addons](https://github.com/bj-rn/VL.Addons) - A place to gather contributions by the vvvv community
 
 ### Rendering
 
 * [VL.Skia](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Skia) - 2D rendering engine
 * [VL.Stride](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride) - 3D game and rendering engine
+* [VL.Stride.TextureFX](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.TextureFX) - Texture sources, filters and mixers
+* [VL.Fuse](https://github.com/TheFuseLab/VL.Fuse) - A library for visually programming on the GPU
 * [VL.Video](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Video) - Set of nodes for video capture and playback
+
+### UI
+
+* [VL.ImGui](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui) - A node set around ImGui to render user interfaces in Skia and Stride
+* [VL.Elementa](https://github.com/natan-sinigaglia/VL.Elementa) -  Collection of UI widgets for easy UI prototyping
 
 ### Control
 
