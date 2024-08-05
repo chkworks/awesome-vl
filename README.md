@@ -80,12 +80,12 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 * [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about VL implementations of the book "Head First Design Patterns"
 
-## Software made with VL
+## Other Resources
+
+### Software made with VL
 
 * [GammaLauncher](https://github.com/sebescudie/GammaLauncher) - A simple launcher for vvvv gamma
 * [Schema](https://github.com/domjancik/scnq-schema) - An intuitive visual programming interface and runtime
-
-## Other Resources
 
 ### Articles
 
