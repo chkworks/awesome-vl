@@ -60,12 +60,14 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 
 ### Free Tutorial Videos
 
+* [NODE20 Workshops](https://vimeo.com/showcase/node20workshops) - 30 workshops, 90 hours of learning, recorded at NODE20 Forum for Digital Arts in October 2020.
 * [Tutorial for Absolute Beginners of VL](https://youtube.com/playlist?list=PL2KeRstDQVRRVnzCHEambwAI4yWmpIF-p&si=Jn55GElh-JUdL-0A) - A tutorial series of 7 videos, covering the most basic nodes and techniques.
 * [Model Runtime Editor Design Pattern](https://vvvv.org/contribution/model-runtime-editor-design-pattern) - A convenient way to structure your software and build a flexible app architecture.
 
 ### Institutes teaching vvvv
 
 * [The NODE Institute](https://thenodeinstitute.org/)
+* [Creative\Media/Technologies FHSTP](https://icmt.fhstp.ac.at/)
 
 ### Online Courses
 
