@@ -42,9 +42,10 @@ A collection of libraries, resources and examples for vvvv and VL.
 ### Audio
 
 * [VL.Audio](https://github.com/vvvv/VL.Audio) - Record, play, filter, synthesize and analyse sound
-* [VL.IO.Midi](https://github.com/vvvv/VL.IO.Midi) -  Midi nodes for VL
-* [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities for VL 
 * [VL.GameAudioPlayer](https://github.com/TobyKLight/VL.GameAudioPlayer) - High level command based audio player
+* [VL.IO.Midi](https://github.com/vvvv/VL.IO.Midi) -  Midi nodes for VL
+* [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities for VL
+* [VL.IO.AbletonLink](https://github.com/SpaceMusicZH/VL.IO.AbletonLink) -  VL wrapper for Ableton Link
 * [VL.SCSynth](https://github.com/cnisidis/VL.SCSynth) - SuperCollider Server Library for VL
 
 ### Networking
