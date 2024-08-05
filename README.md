@@ -74,15 +74,6 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [GammaLauncher](https://github.com/sebescudie/GammaLauncher) - A simple launcher for vvvv gamma
 * [Schema](https://github.com/domjancik/scnq-schema) - An intuitive visual programming interface and runtime
 
-## Artists & Studios
-
-* [3e8](https://3e8.studio)
-* [Marshmallow Laser Feast](http://marshmallowlaserfeast.com)
-* [m box](http://m-box.de)
-* [Refik Anadol](http://refikanadol.com)
-* [schnellebuntebilder](http://schnellebuntebilder.de)
-* [Studio Brüll](https://studiobruell.de/)
-
 ## Other Resources
 
 ### Articles
