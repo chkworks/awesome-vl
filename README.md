@@ -28,6 +28,7 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 * [VL.Stride](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride) - 3D game and rendering engine
 * [VL.Stride.TextureFX](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.TextureFX) - Texture sources, filters and mixers
 * [VL.Fuse](https://github.com/TheFuseLab/VL.Fuse) - A library for visually programming on the GPU
+* [VL.CEF](https://github.com/vvvv/VL.CEF) - Set of nodes to use the Chromium Embedded Framework (CEF) in VL 
 * [VL.Video](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Video) - Set of nodes for video capture and playback
 
 ### UI
@@ -51,9 +52,11 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 
 * [VL.TheBigBang](https://github.com/chkworks/VL.TheBigBang) - A tutorial series of 42 chapters, covering all nodes and techniques to get you started with the visual programming environment vvvv.
 * [VL.ExtendedTutorials](https://github.com/TobyKLight/VL.ExtendedTutorials) -  Extended tutorial help patches for vvvv gamma, covering common questions as learners move from beginner towards intermediate.
+* [VL.GenerativeGestaltung](https://github.com/phlegma/VL.GenerativeGestaltung) - Sketches from the book "Generative Gestaltung" implemented in vvvv gamma.
 
 ### Free Tutorial Videos
 
+* [Tutorial for Absolute Beginners of VL](https://youtube.com/playlist?list=PL2KeRstDQVRRVnzCHEambwAI4yWmpIF-p&si=Jn55GElh-JUdL-0A) - A tutorial series of 7 videos, covering the most basic nodes and techniques.
 * [Model Runtime Editor Design Pattern](https://vvvv.org/contribution/model-runtime-editor-design-pattern) - A convenient way to structure your software and build a flexible app architecture.
 
 ### Institutes teaching vvvv
@@ -62,6 +65,7 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 
 ### Online Courses
 
+* 
 * [Game Logic](https://thenodeinstitute.org/courses/ss23-vvvv-game-logic/)
 
 ### Forum Threads
