@@ -24,42 +24,40 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 
 * [VL.Skia](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Skia) - 2D rendering engine
 * [VL.Stride](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride) - 3D game and rendering engine
+* [VL.Video](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Video) - Set of nodes for video capture and playback
 
 ### Control
 
 * [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition in vvvv
 * [VL.AutomataUI](https://github.com/wirmachenbunt/AutomataUI.NET) - A finite statemachine editor for .NET
 
+### Audio
+
+* [VL.Audio](https://github.com/vvvv/VL.Audio) - Record, play, filter, synthesize and analyse sound
+* [VL.SCSynth](https://github.com/cnisidis/VL.SCSynth) - SuperCollider Server Library for VL
+
 ## Learning
 
-### Tutorial NuGets
+### Free Tutorial NuGets
 
 * [VL.TheBigBang](https://github.com/chkworks/VL.TheBigBang) - A tutorial series of 42 chapters, covering all nodes and techniques to get you started with the visual programming environment vvvv.
 * [VL.ExtendedTutorials](https://github.com/TobyKLight/VL.ExtendedTutorials) -  Extended tutorial help patches for vvvv gamma, covering common questions as learners move from beginner towards intermediate.
 
-### Tutorial Videos
+### Free Tutorial Videos
 
 * [Model Runtime Editor Design Pattern](https://vvvv.org/contribution/model-runtime-editor-design-pattern) - A convenient way to structure your software and build a flexible app architecture.
 
-### Institutes
+### Institutes teaching vvvv
 
 * [The NODE Institute](https://thenodeinstitute.org/)
 
-### Courses
+### Online Courses
 
 * [Game Logic](https://thenodeinstitute.org/courses/ss23-vvvv-game-logic/)
 
 ### Forum Threads
 
 * [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about VL implementations of the book "Head First Design Patterns"
-
-## Resources
-
-### 
-
-### Articles
-
-* [About vvvv gamma](https://thenodeinstitute.org/about-vvvv-gamma/)
 
 ## Made with VL
 
@@ -73,4 +71,10 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 * [m box](http://m-box.de)
 * [Refik Anadol](http://refikanadol.com)
 * [schnellebuntebilder](http://schnellebuntebilder.de)
-* Studio Brüll
+* [Studio Brüll](https://studiobruell.de/)
+
+## Other Resources
+
+### Articles
+
+* [About vvvv gamma](https://thenodeinstitute.org/about-vvvv-gamma/)
