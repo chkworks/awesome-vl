@@ -1,5 +1,5 @@
 # Awesome VL
-A curated collection of libraries, resources and examples for vvvv and VL.
+A collection of libraries, resources and examples for vvvv and VL.
 
 ## Official Channels
 
