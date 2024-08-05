@@ -97,4 +97,5 @@ A curated collection of libraries, resources and examples for vvvv and VL.
 
 ### Articles
 
-* [About vvvv gamma](https://thenodeinstitute.org/about-vvvv-gamma/)
+* [About vvvv gamma](https://thenodeinstitute.org/about-vvvv-gamma/) - The NODE Institute
+* [The flow of creative expression: Paving the way for vvvv](https://meso.design/en/articles/the-flow-of-creative-expression-paving-the-way-for-vvvv) - MESO
