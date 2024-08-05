@@ -7,15 +7,18 @@ A curated collection of libraries, resources and examples for vvvv and VL.
   - [Rendering](#rendering)
 - [Tutorials](#tutorials)
 
-## Official websites
+## Official Channels
 
 * [visualprogramming.net](https://visualprogramming.net) - The official website for vvvv gamma
 * [vvvv.org](https://vvvv.org) - The old website for vvvv beta
 * [Forum](https://discourse.vvvv.org) - The official forum
 * [The Gray Book](https://thegraybook.vvvv.org) - The official documentation
+* [vvvvTV](https://www.youtube.com/@vvvvTv42) - The official YouTube channel
 * [VL-Language](https://github.com/vvvv/VL-Language) -  The official repo for the design of the VL programming language 
 
 ## Libraries
+
+* [VL.StandardLibs](https://github.com/vvvv/VL.StandardLibs) -  A collection of standard libraries for vvvv including VL.Stride, VL.Skia, VL.ImGui, msgpack.org[VL] 
 
 ### Rendering
 
