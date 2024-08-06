@@ -87,6 +87,7 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 * [GammaLauncher](https://github.com/sebescudie/GammaLauncher) - A simple launcher for vvvv gamma
 * [Schema](https://github.com/domjancik/scnq-schema) - An intuitive visual programming interface and runtime
+* [TexconvGui](https://github.com/bj-rn/texconvgui) - A simple Gui for Microsoft's Texconv to batch convert images
 
 ### Articles
 
