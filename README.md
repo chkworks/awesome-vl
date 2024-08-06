@@ -80,9 +80,11 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [The Fuse Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-fuse-bundle/)
 * [Game Logic](https://thenodeinstitute.org/courses/ss23-vvvv-game-logic/)
 
-### Forum Threads
+### Examples
 
 * [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about VL implementations of the book "Head First Design Patterns".
+* [Nodevember 2022](https://discourse.vvvv.org/t/vl-examples-patches-playground01/21166) - Example patches by CeeYaa during Nodevember 2022.
+* [Genuary 2023](https://github.com/CeeYaa/Genuary2023) - Example patches by CeeYaa during Genuary 2023.
 
 ## Other Resources
 
