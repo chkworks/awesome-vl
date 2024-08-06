@@ -82,15 +82,16 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 ### Forum Threads
 
-* [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about VL implementations of the book "Head First Design Patterns"
+* [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about VL implementations of the book "Head First Design Patterns".
 
 ## Other Resources
 
 ### Software made with VL
 
-* [GammaLauncher](https://github.com/sebescudie/GammaLauncher) - A simple launcher for vvvv gamma
-* [Schema](https://github.com/domjancik/scnq-schema) - An intuitive visual programming interface and runtime
-* [TexconvGui](https://github.com/bj-rn/texconvgui) - A simple Gui for Microsoft's Texconv to batch convert images
+* [GammaLauncher](https://github.com/sebescudie/GammaLauncher) - A simple launcher for vvvv gamma.
+* [Remoter](https://github.com/vvvv/Remoter) -  GUI over PAExec and robocopy to remote a bunch of PCs at once.
+* [Schema](https://github.com/domjancik/scnq-schema) - An intuitive visual programming interface and runtime.
+* [TexconvGui](https://github.com/bj-rn/texconvgui) - A simple Gui for Microsoft's Texconv to batch convert images.
 
 ### Articles
 
