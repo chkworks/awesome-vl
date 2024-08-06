@@ -52,6 +52,10 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 ... Todo
 
+### Devices
+
+* [VL.IO.MouseKeyGlobal](https://github.com/bj-rn/VL.IO.MouseKeyGlobal) - Global mouse and keyboard hook
+
 ## Learning
 
 ### Tutorial NuGets
