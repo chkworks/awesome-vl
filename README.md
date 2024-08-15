@@ -12,7 +12,7 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [vvvvTV](https://www.youtube.com/@vvvvTv42) - The official YouTube channel
 * [VL-Language](https://github.com/vvvv/VL-Language) -  The official repo for the design of the VL programming language 
 
-### Community Channels
+### Community
 
 * [The NODE Institute](https://thenodeinstitute.org/) - Institute for applied creative computation, hosting user meetups, workshops, webinars and online courses for creative coding and media arts.
 * [NODE Forum](https://nodeforum.org/) - A platform for sharing and investigating creative technologies, for artistic research and cultural and political media education.
