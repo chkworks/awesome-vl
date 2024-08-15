@@ -56,7 +56,7 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.ShadowCatcher](https://github.com/torinos-yt/VL.ShadowCatcher) - *todo*
  
 #### Text
-* [VL.Stride.Text3d](https://www.nuget.org/packages/VL.Stride.Text3d) - Set of nodes to create and render (extruded) 3D text 
+* [VL.Stride.Text3d](https://github.com/bj-rn/VL.Stride.Text3d) - Set of nodes to create and render (extruded) 3D text 
 * [VL.RichTextKit](https://github.com/sebllll/VL.RichTextKit) - Wrapper for rich text in VL
 * [VL.BMFont](https://github.com/kopffarben/VL.BMFont) - *todo*
 
@@ -65,7 +65,10 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.HapPlayer](https://www.nuget.org/packages/VL.HapPlayer) - HAP GPU Video Playback Plugin (*requires a license*)
 
 ### Math & Algorithms
+* [VL.FastNoise](https://github.com/artrevinho/VL.FastNoise) -  Noise Generator in VL
+* [VL.FastNoiseLite](https://github.com/bj-rn/VL.FastNoiseLite) - Noise generation library with a large selection of noise algorithms
 * [VL.Interpolator](https://github.com/lasalillo/VL.Interpolator) - Nodes to interpolate any kind of type
+* [VL.SmallestCircle](https://github.com/schnellebuntebilder/VL.SmallestCircle) -  Calculate the smallest enclosing circle for a set of 2D points
 * [VL.RogueSharp](https://github.com/TobyKLight/VL.RogueSharp) - A library for game development of roguelikes, including methods for pathfinding and field of view
 
 ### Control
@@ -129,6 +132,7 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.PJLink](https://github.com/sebllll/VL.PJLink) - Nodes to connect and control projectors via the PJLink protocol
 * [VL.SimpleHTTP](https://github.com/sebescudie/VL.SimpleHTTP) - A super-simple set of nodes to perform basic HTTP queries
 * [VL.TUIO](https://github.com/InteractiveScapeGmbH/VL.TUIO) - Alternative TUIO library based on TUIO.Net
+* [VL.TUIO.HDE](https://github.com/vvvv/VL.TUIO.HDE) - TUIO simulator and monitor
 
 ### Devices
 
@@ -164,33 +168,37 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.PTZ](https://github.com/lasalillo/VL.PTZ) - Set of nodes to work with PTZ cameras
 
 #### Physical Computing
-* Todo: https://thegraybook.vvvv.org/reference/libraries/physicalcomputing.html
-* [VL.IO.Firmata](https://github.com/vvvv/VL.IO.Firmata) - 
+* [VL.IO.Firmata](https://github.com/vvvv/VL.IO.Firmata) - Provides support for the Firmata protocol
+* [VL.Devices.Phidgets](https://github.com/phlegma/VL.Devices.Phidgets/) - Integration for Phidgets
 
 #### Other Devices
 * [VL.Devices.DeckLink](https://github.com/vvvv/VL.Devices.DeckLink) - A package for using DeckLink capture cards by Blackmagic Design
-* [VL.Devices.Robotiq](https://github.com/phlegma/VL.Devices.Robotiq) -
+* [VL.Devices.Robotiq](https://github.com/phlegma/VL.Devices.Robotiq) - Nodes to control a Robotiq 3-Finger Adaptive Robot Gripper
 
 ### Machine Learning
-* Todo: https://thegraybook.vvvv.org/reference/libraries/machinelearning.html
-* [VL.Wekinator](https://github.com/sebescudie/VL.Wekinator) - 
-* [VL.2D.DollarQ](https://github.com/vvvv/VL.2D.DollarQ) - 
+* [VL.2D.DollarQ](https://github.com/vvvv/VL.2D.DollarQ) - Gesture regognition library
+* [VL.DlibDotNet](https://github.com/m-box-de/VL.DlibDotNet) - Some parts of DlibDotNet library ported to VL
+* [VL.OpenAI](https://github.com/schnellebuntebilder/VL.OpenAI) - Nodes for the OpenAI API
+* [VL.PythonNET](https://discourse.vvvv.org/t/vl-pythonnet-and-ai-worflows-like-streamdiffusion-in-vvvv-gamma/22596) - Python interpreter for vvvv and base for many AI tools and workflows
+* [VL.Wekinator](https://github.com/sebescudie/VL.Wekinator) - A library to communicate with Wekinator via OSC
 
 ### System & Extensions
 * [VL.Benchmarks](https://github.com/tebjan/VL.Benchmarks) - A performance testing suite for VL
 * [VL.DebugInfo.HDE](https://github.com/sebescudie/VL.DebugInfo.HDE) - An editor extension that displays relevant debug information
-* [VL.GlassWindow](https://github.com/torinos-yt/VL.GlassWindow) - 
-* [VL.ScreenRecorder](https://github.com/vvvv/VL.ScreenRecorder) - 
-* [VL.TUIO.HDE](https://github.com/vvvv/VL.TUIO.HDE) - 
+* [VL.GlassWindow](https://github.com/torinos-yt/VL.GlassWindow) - Makes the background of the rendering windows transparent
+* [VL.HardwareMonitor](https://github.com/vvvv/VL.HardwareMonitor) - Nodes to retrieve various metrics from your computer hardware
+* [VL.ScreenRecorder](https://github.com/vvvv/VL.ScreenRecorder) - A simple screen recorder
+* [VL.SharedMemory](https://github.com/cnisidis/VL.SharedMemory) - Shared memory implementation to exchange data
+* [VL.WinFormsUtils](https://github.com/domjancik/VL.WinFormsUtils) -  Nodes to expose useful functions of the Windows Forms API 
 
 ### Misc
-* Todo: https://thegraybook.vvvv.org/reference/libraries/misc.html
-* [VL.OpenWeather](https://github.com/sebescudie/VL.OpenWeather) - 
-* [VL.PDF](https://github.com/eqbic/VL.PDF) - 
-* [VL.Postman](https://github.com/sebescudie/VL.Postman) - 
-* [VL.QRCode](https://github.com/vvvv/VL.QRCode) - 
-* [VL.StringExtensions](https://github.com/sebescudie/VL.StringExtensions) - 
-* [VL.Telegram](https://github.com/sebescudie/VL.Telegram) - 
+* [VL.OpenWeather](https://github.com/sebescudie/VL.OpenWeather) - Wrapper for some APIs from OpenWeather
+* [VL.PDF](https://github.com/eqbic/VL.PDF) - *todo*
+* [VL.Postman](https://github.com/sebescudie/VL.Postman) - Plugin to turn Postman collection exports into ready to use nodes
+* [VL.QRCode](https://github.com/vvvv/VL.QRCode) - QRCode encoder and decoder
+* [VL.SRT](https://github.com/sebllll/VL.SRT) - Nodes to deal with subtitles
+* [VL.StringExtensions](https://github.com/sebescudie/VL.StringExtensions) - Nodes for extended methods when working with strings
+* [VL.Telegram](https://github.com/sebescudie/VL.Telegram) - Wrapper of the Telegram.Bot lib
  
 ## Learning
 
@@ -213,14 +221,14 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [TextureFX+](https://discourse.vvvv.org/t/texture-fx-vl-addons/21631) - A forum thread about TextureFX+, a collection of texture generators and filters gathered by the community.
 * [Nodevember 2022](https://discourse.vvvv.org/t/vl-examples-patches-playground01/21166) - Example patches by CeeYaa during Nodevember 2022.
 * [Genuary 2023](https://github.com/CeeYaa/Genuary2023) - Example patches by CeeYaa during Genuary 2023.
-* [VL.Snake](https://github.com/ravazquez/VL.Snake) - 
-* [VL.Breakout](https://github.com/ravazquez/VL.Breakout) - 
-* [VL.DemoLib](https://github.com/vvvv/VL.DemoLib) - 
+* [VL.Snake](https://github.com/ravazquez/VL.Snake) - A VL clone of the game Snake
+* [VL.Breakout](https://github.com/ravazquez/VL.Breakout) - A VL clone of the game Breakout
+* [VL.DemoLib](https://github.com/vvvv/VL.DemoLib) - A demo library showing how to write nodes in C#
 
 ### Online Courses
-* [The Stride Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-stride-bundle/)
-* [The Fuse Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-fuse-bundle/)
-* [Game Logic](https://thenodeinstitute.org/courses/ss23-vvvv-game-logic/)
+* [The Stride Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-stride-bundle/) - 5 intermediate courses focusing on VL.Stride
+* [The Fuse Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-fuse-bundle/) - 8 intermediate courses focusing on VL.Fuse
+* [Game Logic](https://thenodeinstitute.org/courses/ss23-vvvv-game-logic/) - A workshop about creating Flappy Bird in VL
 
 ## Other Resources
 
