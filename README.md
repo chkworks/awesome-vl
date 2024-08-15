@@ -21,7 +21,7 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 * [VL.CoreLib](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.CoreLib) - The main vvvv core library
 * [VL.StandardLibs](https://github.com/vvvv/VL.StandardLibs) -  A collection of standard libraries for vvvv
-* [VL.Addons](https://github.com/bj-rn/VL.Addons) - A place to gather contributions by the vvvv community
+* [VL.Addons](https://github.com/bj-rn/VL.Addons) - A place to gather contributions by the vvvv community, including a great amount of extended texture generators and filters
 
 ### Rendering
 
@@ -46,7 +46,11 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 ### Projection Mapping
 
-* [VL.BadMapper](https://github.com/vvvv/VL.BadMapper) - A collection of tools for convenient manual blending (softedge) and warping (homography, bezier) of content.
+* [VL.BadMapper](https://github.com/vvvv/VL.BadMapper) - Collection of tools for convenient manual blending (softedge) and warping (homography, bezier)
+* [VL.Mapper](https://github.com/zekeadam/VL.Mapper) - Projection mapping tool for vvvv
+* [VL.VIOSOWarpBlend](https://github.com/vvvv/VL.VIOSOWarpBlend) -  Wrapper for the VIOSO WarpBlend API
+* [VL.ScalableDisplay](https://www.nuget.org/packages/VL.ScalableDisplay) - Support for the auto projector-alignment technology by Scalable Display Solutions (not open-source)
+* [VL.Domemaster](https://discourse.vvvv.org/t/vl-domemaster/20660) - Example to render a scene in the Domemaster format (forum post)
 
 ### User Interfaces
 
@@ -76,7 +80,7 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 * [VL.IO.MouseKeyGlobal](https://github.com/bj-rn/VL.IO.MouseKeyGlobal) - Global mouse and keyboard hook
 
-### Tools
+### Other
 
 * VL.Benchmarks
 * System Info
