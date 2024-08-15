@@ -14,6 +14,13 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 * [The NODE Institute](https://thenodeinstitute.org/) - Institute for applied creative computation, hosting user meetups, workshops, webinars and online courses for creative coding and media arts.
 * [NODE Forum](https://nodeforum.org/) - A platform for sharing and investigating creative technologies, for artistic research and cultural and political media education.
+* [Stride](stride3d.net/) - A free and open-source cross-platform C# game engine.
+* [thefuselab.io](https://www.thefuselab.io/) - The official website of FUSE, the open-source library for visually programming on the GPU.
+
+## Sponsoring
+* [Stride on OpenCollective](https://opencollective.com/stride3d) - Sponsoring page for Stride, the open-source game enginge that provides the backend for 3D rendering in vvvv.
+* [The Fuse Lab on OpenCollective](https://opencollective.com/the-fuse-lab) - Sponsoring page for the VL.Fuse library.
+* [Kairos Research Lab on OpenCollective](https://opencollective.com/the-fuse-lab) - Sponsoring page for the VL.Kairos library.
 
 ## Libraries
 
@@ -29,7 +36,7 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.Skia3d](https://github.com/vvvv/VL.Skia3d) - A simple 3D addon for VL.Skia
 * [VL.Stride](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride) - The main 3D rendering and game engine
 * [VL.Stride.TextureFX](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.TextureFX) - Texture sources, filters and mixers
-* [VL.Fuse](https://github.com/TheFuseLab/VL.Fuse) - A library for visually programming on the GPU
+* [VL.Fuse](https://github.com/TheFuseLab/VL.Fuse) - An open-source library for visually programming on the GPU
 * [VL.PolyTools](https://github.com/TobyKLight/VL.PolyTools) -  Tools for working with Polygons and Polypaths
 * [VL.CEF](https://github.com/vvvv/VL.CEF) - Set of nodes to use the Chromium Embedded Framework (CEF)
 * [VL.Video](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Video) - Set of nodes for video capture and playback
@@ -135,7 +142,6 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 ### Tools
 
-* [Stride](stride3d.net/) - A free and open-source cross-platform C# game engine.
 * [Stride Shader Explorer](https://github.com/tebjan/Stride.ShaderExplorer) - A tool showing the built-in shaders of the Stride game engine and their inheritance hierarchy.
 * [List of Material Editors](https://discourse.vvvv.org/t/open-source-material-editor-material-creation-resource-list/19185) - Forum thread about open-source material editors.
 
