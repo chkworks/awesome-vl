@@ -5,6 +5,7 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 * [visualprogramming.net](https://visualprogramming.net) - The official website for vvvv gamma
 * [vvvv.org](https://vvvv.org) - The old website for vvvv beta
+* [The NODE Institute](https://thenodeinstitute.org/)
 * [Forum](https://discourse.vvvv.org) - The official forum
 * [The Gray Book](https://thegraybook.vvvv.org) - The official documentation
 * [vvvvTV](https://www.youtube.com/@vvvvTv42) - The official YouTube channel
@@ -74,22 +75,17 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [Model Runtime Editor Design Pattern](https://vvvv.org/contribution/model-runtime-editor-design-pattern) - A convenient way to structure your software and build a flexible app architecture.
 * [Midweek Patch Therapy](https://www.youtube.com/@midweekpatchtherapy3983) - Highlights from the weekly Midweek Patch Therapy meetings, created and hosted by domj.
 
-### Institutes
+### Examples
 
-* [The NODE Institute](https://thenodeinstitute.org/)
-* [Creative\Media/Technologies FHSTP](https://icmt.fhstp.ac.at/)
+* [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about VL implementations of the book "Head First Design Patterns".
+* [Nodevember 2022](https://discourse.vvvv.org/t/vl-examples-patches-playground01/21166) - Example patches by CeeYaa during Nodevember 2022.
+* [Genuary 2023](https://github.com/CeeYaa/Genuary2023) - Example patches by CeeYaa during Genuary 2023.
 
 ### Online Courses
 
 * [The Stride Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-stride-bundle/)
 * [The Fuse Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-fuse-bundle/)
 * [Game Logic](https://thenodeinstitute.org/courses/ss23-vvvv-game-logic/)
-
-### Examples
-
-* [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about VL implementations of the book "Head First Design Patterns".
-* [Nodevember 2022](https://discourse.vvvv.org/t/vl-examples-patches-playground01/21166) - Example patches by CeeYaa during Nodevember 2022.
-* [Genuary 2023](https://github.com/CeeYaa/Genuary2023) - Example patches by CeeYaa during Genuary 2023.
 
 ## Other Resources
 
