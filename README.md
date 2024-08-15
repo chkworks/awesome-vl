@@ -35,6 +35,18 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.CEF](https://github.com/vvvv/VL.CEF) - Set of nodes to use the Chromium Embedded Framework (CEF)
 * [VL.Video](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Video) - Set of nodes for video capture and playback
 * [VL.Radiosity](https://github.com/michael-burk/VL.Radiosity) - 2D Radiosity Shader
+* [VL.Boids-GPU](https://github.com/torinos-yt/VL.Boids-GPU) - GPU Boids Simulation implemented in VL
+
+### File Formats
+
+* [VL.Alembic](https://github.com/torinos-yt/VL.Alembic) - A plugin to read .abc Alembic files.
+* [VL.Assimp](https://github.com/texone/VL.Assimp) - An alternative 3d model loader for Stride
+* [VL.IO.PLY](https://github.com/vvvv/VL.IO.PLY) - Provides support to read .ply files in VL
+* [VL.OpenEXR](https://github.com/torinos-yt/VL.OpenEXR) - A simple OpenEXR and .hdr image format loader
+
+### Projection Mapping
+
+* [VL.BadMapper](https://github.com/vvvv/VL.BadMapper) - A collection of tools for convenient manual blending (softedge) and warping (homography, bezier) of content.
 
 ### UI
 
@@ -43,15 +55,15 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 ### Control
 
-* [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition in vvvv
+* [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition
 * [VL.AutomataUI](https://github.com/wirmachenbunt/AutomataUI.NET) - A finite statemachine editor for .NET
-* [VL.LoopTool](https://github.com/vjgegenlicht/VL.LoopTool) -  A small toolset to create video loops and record them in vvvv
+* [VL.LoopTool](https://github.com/vjgegenlicht/VL.LoopTool) -  A small toolset to create video loops and record them
 
 ### Audio
 
 * [VL.Audio](https://github.com/vvvv/VL.Audio) - Record, play, filter, synthesize and analyse sound
 * [VL.GameAudioPlayer](https://github.com/TobyKLight/VL.GameAudioPlayer) - High level command based audio player
-* [VL.IO.Midi](https://github.com/vvvv/VL.IO.Midi) -  Midi nodes for VL
+* [VL.IO.Midi](https://github.com/vvvv/VL.IO.Midi) -  Midi nodes and tools
 * [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities for VL
 * [VL.IO.AbletonLink](https://github.com/SpaceMusicZH/VL.IO.AbletonLink) -  VL wrapper for Ableton Link
 * [VL.SCSynth](https://github.com/cnisidis/VL.SCSynth) - SuperCollider Server Library for VL
@@ -63,6 +75,11 @@ A collection of libraries, resources and examples for vvvv and VL.
 ### Devices
 
 * [VL.IO.MouseKeyGlobal](https://github.com/bj-rn/VL.IO.MouseKeyGlobal) - Global mouse and keyboard hook
+
+### Tools
+
+* VL.Benchmarks
+* System Info
 
 ## Learning
 
@@ -94,6 +111,12 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [Game Logic](https://thenodeinstitute.org/courses/ss23-vvvv-game-logic/)
 
 ## Other Resources
+
+### Tools
+
+* [Stride](stride3d.net/) - A free and open-source cross-platform C# game engine.
+* [Stride Shader Explorer](https://github.com/tebjan/Stride.ShaderExplorer) - A tool showing the built-in shaders of the Stride game engine and their inheritance hierarchy.
+* [List of Material Editors](https://discourse.vvvv.org/t/open-source-material-editor-material-creation-resource-list/19185) - Forum thread about open-source material editors.
 
 ### Software made with VL
 
