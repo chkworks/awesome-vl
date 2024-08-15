@@ -16,66 +16,67 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 * [The NODE Institute](https://thenodeinstitute.org/) - Institute for applied creative computation, hosting user meetups, workshops, webinars and online courses for creative coding and media arts.
 * [NODE Forum](https://nodeforum.org/) - A platform for sharing and investigating creative technologies, for artistic research and cultural and political media education.
-* [Stride](stride3d.net/) - The official website of Stride, the open-source game enginge that provides the backend for 3D rendering in vvvv
+* [Stride](stride3d.net/) - The official website of Stride, the open-source game enginge that provides the backend for 3D rendering in vvvv.
 * [thefuselab.io](https://www.thefuselab.io/) - The official website of FUSE, the open-source library for visually programming on the GPU.
 
 ### Sponsoring Pages
 * [Stride on OpenCollective](https://opencollective.com/stride3d) - Sponsoring page for the Stride game engine.
 * [The Fuse Lab on OpenCollective](https://opencollective.com/the-fuse-lab) - Sponsoring page for the VL.Fuse library.
 * [Kairos Research Lab on OpenCollective](https://opencollective.com/the-fuse-lab) - Sponsoring page for the VL.Kairos library.
+* [chk on Ko-Fi](https://ko-fi.com/chk) - Sponsoring page for chk and VL.TheBigBang.
 
 ## Libraries
 
 ### General
-
 * [VL.CoreLib](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.CoreLib) - The main vvvv core library
 * [VL.StandardLibs](https://github.com/vvvv/VL.StandardLibs) -  A collection of standard libraries for vvvv
 * [VL.Addons](https://github.com/bj-rn/VL.Addons) - A place to gather contributions by the vvvv community, including a great amount of extended texture generators and filters
 
-### Rendering
+### Rendering Engines
 * [VL.Skia](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Skia) - The main 2D rendering engine
 * [VL.Skia3d](https://github.com/vvvv/VL.Skia3d) - A simple 3D addon for VL.Skia
 * [VL.Stride](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride) - The main 3D rendering and game engine
 * [VL.Stride.TextureFX](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.TextureFX) - Texture sources, filters and mixers
+ 
+#### Shaders
 * [VL.Fuse](https://github.com/TheFuseLab/VL.Fuse) - An open-source library for visually programming on the GPU
-* [VL.PolyTools](https://github.com/TobyKLight/VL.PolyTools) -  Tools for working with Polygons and Polypaths
-* [VL.CEF](https://github.com/vvvv/VL.CEF) - Set of nodes to use the Chromium Embedded Framework (CEF)
+* [VL.Radiosity](https://github.com/michael-burk/VL.Radiosity) - 2D Radiosity Shader
+* [VL.Boids-GPU](https://github.com/torinos-yt/VL.Boids-GPU) - GPU Boids Simulation implemented in VL
+
+#### Video
 * [VL.Video](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Video) - Set of nodes for video capture and playback
+* [VL.HapPlayer](https://www.nuget.org/packages/VL.HapPlayer) - HAP GPU Video Playback Plugin (*requires a license*)
 
 #### Text
 * [VL.Stride.Text3d](https://www.nuget.org/packages/VL.Stride.Text3d) - Set of nodes to create and render (extruded) 3D text 
 * [VL.RichTextKit](https://github.com/sebllll/VL.RichTextKit) - Wrapper for rich text in VL
 * [VL.BMFont](https://github.com/kopffarben/VL.BMFont)
 
-#### Shaders
-* [VL.Radiosity](https://github.com/michael-burk/VL.Radiosity) - 2D Radiosity Shader
-* [VL.Boids-GPU](https://github.com/torinos-yt/VL.Boids-GPU) - GPU Boids Simulation implemented in VL
+#### Other
+* [VL.PolyTools](https://github.com/TobyKLight/VL.PolyTools) -  Tools for working with Polygons and Polypaths
+* [VL.CEF](https://github.com/vvvv/VL.CEF) - Set of nodes to use the Chromium Embedded Framework (CEF)
 
 ### Control
-
 * [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition
 * [VL.AutomataUI](https://github.com/wirmachenbunt/AutomataUI.NET) - A finite statemachine editor for .NET
 * [VL.LoopTool](https://github.com/vjgegenlicht/VL.LoopTool) -  A small toolset to create video loops and record them
 
 ### Computer Vision
-
 * [VL.OpenCV](https://github.com/vvvv/VL.OpenCV) - A VL wrapper for OpenCVSharp
 * [VL.MediaPipe](https://github.com/vvvv/VL.MediaPipe) - Camera tracking, image segmentation and object detection from a video stream
 * [VL.Augmenta](https://github.com/vvvv/VL.Augmenta) - Support for Augmenta Tracking Technology in VL
 
 ### User Interfaces
-
 * [VL.ImGui](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui) - A node set around ImGui to render user interfaces in Skia and Stride
 * [VL.Elementa](https://github.com/natan-sinigaglia/VL.Elementa) -  Collection of widgets for easy UI prototyping
 
 ### Audio
-
 * [VL.Audio](https://github.com/vvvv/VL.Audio) - Record, play, filter, synthesize and analyse sound
 * [VL.GameAudioPlayer](https://github.com/TobyKLight/VL.GameAudioPlayer) - High level command based audio player
+* [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities for VL
 * [VL.SCSynth](https://github.com/cnisidis/VL.SCSynth) - SuperCollider Server Library for VL
 
 ### Projection Mapping
-
 * [VL.BadMapper](https://github.com/vvvv/VL.BadMapper) - Collection of tools for convenient manual blending (softedge) and warping (homography, bezier)
 * [VL.Mapper](https://github.com/zekeadam/VL.Mapper) - Projection mapping tool for vvvv
 * [VL.VIOSOWarpBlend](https://github.com/vvvv/VL.VIOSOWarpBlend) -  Wrapper for the VIOSO WarpBlend API
@@ -83,7 +84,6 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.Domemaster](https://discourse.vvvv.org/t/vl-domemaster/20660) - Example to render a scene in the Domemaster format (forum post)
 
 ### File Formats
-
 * [VL.Alembic](https://github.com/torinos-yt/VL.Alembic) - A plugin to read .abc Alembic files.
 * [VL.Assimp](https://github.com/texone/VL.Assimp) - An alternative 3d model loader for Stride
 * [VL.IO.PLY](https://github.com/vvvv/VL.IO.PLY) - Provides support to read .ply files in VL
@@ -91,35 +91,71 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.OpenEXR](https://github.com/torinos-yt/VL.OpenEXR) - A simple OpenEXR and .hdr image format loader
   
 ### Protocols
-
 * [VL.IO.AbletonLink](https://github.com/SpaceMusicZH/VL.IO.AbletonLink) -  Wrapper for Ableton Link
-* [VL.IO.Midi](https://github.com/vvvv/VL.IO.Midi) -  Midi nodes and tools
-* [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities for VL
 * [VL.IO.ArtNet](https://github.com/vvvv/VL.IO.ArtNet) - Support for sending and receiving Art-Net
+* [VL.IO.HTTP.WebServer](https://github.com/vvvv/VL.IO.HTTP.WebServer) - Set of nodes to use run a webserver
+* [VL.IO.M2MQTT](https://github.com/vvvv/VL.IO.M2MQTT) - An MQTT client for accessing an MQTT broker
+* [VL.IO.Midi](https://github.com/vvvv/VL.IO.Midi) -  Midi nodes and tools
+* [VL.IO.MQTTnet](https://github.com/mhusinsky/VL.IO.MQTTnet) - MQTT nodes, based on MQTTnet
+* [VL.IO.NDI](https://github.com/vvvv/VL.IO.NDI) - Provides support for NDI®
+* [VL.IO.NetMQ](https://github.com/vvvv/VL.IO.NetMQ) - Set of nodes to work with NetMQ aka ZeroMQ
+* [VL.IO.OSC](https://github.com/vvvv/VL.IO.OSC) - Provides support for the OSC protocol
+* [VL.IO.OSCQuery](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.IO.OSCQuery) - Allows to expose parameters via the OSCQuery protocol
+* [VL.IO.RCP](https://github.com/rabbitControl/VL.IO.RCP) - Set of nodes to use RCP
+* [VL.IO.SPNet](https://github.com/vvvv/VL.IO.SPNet) - Receive data via the SPNet protocol
+* [VL.IO.TCP](https://github.com/vvvv/VL.IO.TCP) - Set of nodes to use TCP
+* [VL.IO.TUIO](https://github.com/vvvv/VL.IO.TUIO) - Provides support for the TUIO protocol
+* [VL.IO.WebSocket](https://github.com/vvvv/VL.IO.WebSocket) - Set of nodes to use websocket client and server
+* [VL.BlueIOT](https://github.com/vvvv/VL.BlueIOT) - Support for the BlueIOT open API
+* [VL.PJLink](https://github.com/sebllll/VL.PJLink) - Nodes to connect and control projectors via the PJLink protocol
+* [VL.SimpleHTTP](https://github.com/sebescudie/VL.SimpleHTTP) - A super-simple set of nodes to perform basic HTTP queries
 
 ### Devices
 
-* [VL.Devices.ENTTEC](https://github.com/vvvv/VL.Devices.ENTTEC) - Support for ENTTEC DMX devices
+#### Input
+* [VL.Devices.SpaceMouse](https://github.com/vvvv/VL.Devices.SpaceMouse) - A package for using the SpaceMouse by 3dconnexion
 * [VL.Devices.StreamDeck](https://github.com/mhusinsky/VL.Devices.StreamDeck) - A package for using Elgato StreamDeck button displays
+* [VL.Devices.TheEyeTribe](https://github.com/vvvv/VL.Devices.TheEyeTribe) - Set of nodes to use the eye tracker by TheEyeTribe
+* [VL.Devices.WinTab](https://github.com/vvvv/VL.Devices.WinTab) - A set of VL nodes for using WinTab devices
+* [VL.Devices.SICK](https://github.com/sebescudie/VL.Devices.SICK) - A plugin to interact with SICK lidar scanners
+* [VL.GameController](https://github.com/heavy-d/VL.GameController/) - A library to support SDL GameControllers
 * [VL.IO.MouseKeyGlobal](https://github.com/bj-rn/VL.IO.MouseKeyGlobal) - Global mouse and keyboard hook
+* [VL.IO.Xbox360Controller](https://github.com/domjancik/VL.IO.Xbox360Controller) - Nodes for the Xbox 360 Controller
+
+#### Output
+* [VL.Devices.ENTTEC](https://github.com/vvvv/VL.Devices.ENTTEC) - Support for ENTTEC DMX devices
 * [VL.ILDA](https://github.com/lasalillo/VL.ILDA) - ILDA laser control
-
-#### Cameras
-
+* [VL.M8Display](https://github.com/gamingrobot/VL.M8Display) - A library for Dirtywave M8 Remote Displays
+  
+#### Cameras & Video Capture
 * [VL.Devices.Astra](https://github.com/vvvv/VL.Devices.Astra) - A package for using Astra depth cameras by Orbbec
 * [VL.Devices.AzureKinect](https://github.com/vvvv/VL.Devices.AzureKinect) - A package for using Azure Kinect depth cameras by Microsoft
 * [VL.Devices.AzureKinect.Body](https://github.com/vvvv/VL.Devices.AzureKinect.Body) - A package for using Azure Kinect body tracking
+* [VL.Devices.DeckLink](https://github.com/vvvv/VL.Devices.DeckLink) - A package for using DeckLink capture cards by Blackmagic Design
+* [VL.Devices.DigiCamControl](https://github.com/vvvv/VL.Devices.DigiCamControl) - A package for remote controlling DSLR cameras
+* [VL.Devices.IDS](https://github.com/vvvv/VL.Devices.IDS) - Support for uEye and uEye+ industrial cameras
 * [VL.Devices.Kinect](https://github.com/vvvv/VL.Devices.Kinect) - A package for using Kinect and Kinect XBOX 360 by Microsoft
-* [VL.Devices.Kinect2](https://github.com/vvvv/VL.Devices.Kinect2) - A package for using Kinect2 depth cameras by Microsoft in VL
+* [VL.Devices.Kinect2](https://github.com/vvvv/VL.Devices.Kinect2) - A package for using Kinect2 depth cameras by Microsoft
 * [VL.Devices.LeapOrion](https://github.com/vvvv/VL.Devices.LeapOrion) - A package for using the Motion Controller by Ultraleap, using the Orion SDK
 * [VL.Devices.NuiTrack](https://github.com/vvvv/VL.Devices.NuiTrack) - A package for using the Nuitrack depth camera API
 * [VL.Devices.RealSense](https://github.com/vvvv/VL.Devices.RealSense) - A package for using RealSense depth cameras by Intel
+* [VL.Devices.TheImagingSource](https://github.com/vvvv/VL.Devices.TheImagingSource) - Support for using industrial cameras by The Imaging Source
+* [VL.Devices.uEye](https://github.com/schnellebuntebilder/VL.Devices.uEye) - VL nodes for using uEye cameras by IDS-Imaging
 * [VL.Devices.ZED](https://github.com/vvvv/VL.Devices.ZED) - A package for using ZED depth cameras by Stereolabs
+* [VL.PTZ](https://github.com/lasalillo/VL.PTZ) - Set of nodes to work with PTZ cameras
+
+#### Physical Computing
+* Todo: https://thegraybook.vvvv.org/reference/libraries/physicalcomputing.html
+
+### Machine Learning
+* Todo: https://thegraybook.vvvv.org/reference/libraries/machinelearning.html
 
 ### Analysis
+* Todo: VL.Benchmarks
+* Todo: System Info
 
-* VL.Benchmarks
-* System Info
+### Other
+* Todo: https://thegraybook.vvvv.org/reference/libraries/misc.html
 
 ## Learning
 
@@ -168,5 +204,6 @@ A collection of libraries, resources and examples for vvvv and VL.
 ### Articles
 
 * [About vvvv gamma](https://thenodeinstitute.org/about-vvvv-gamma/) - The NODE Institute
+* [Resolume vs. TouchDesigner vs. vvvv](https://interactiveimmersive.io/blog/technology/resolume-vs-touchdesigner/) - The Interactive & Immersive HQ
 * [The flow of creative expression: Paving the way for vvvv](https://meso.design/en/articles/the-flow-of-creative-expression-paving-the-way-for-vvvv) - MESO
 * [What is VVVV + Fuse and Why It's a Powerful Combo for New Media](https://www.dataisbeautiful.club/post/what-is-vvvv-fuse-and-why-it-s-a-powerful-combo-for-new-media) - Ameen Insan
