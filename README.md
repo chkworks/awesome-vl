@@ -31,30 +31,42 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.CoreLib](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.CoreLib) - The main vvvv core library
 * [VL.StandardLibs](https://github.com/vvvv/VL.StandardLibs) -  A collection of standard libraries for vvvv
 * [VL.Addons](https://github.com/bj-rn/VL.Addons) - A place to gather contributions by the vvvv community, including a great amount of extended texture generators and filters
+* [VL.NewLibrary.Template](https://github.com/vvvv/VL.NewLibrary.Template) - A template for a new VL library
 
 ### Rendering
+* [VL.CEF](https://github.com/vvvv/VL.CEF) - Set of nodes to render websites in Skia and Stride
+* [VL.Fuse](https://github.com/TheFuseLab/VL.Fuse) - An open-source library for visually programming on the GPU
 * [VL.Skia](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Skia) - The main 2D rendering engine
 * [VL.Skia3d](https://github.com/vvvv/VL.Skia3d) - A simple 3D addon for VL.Skia
 * [VL.Stride](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride) - The main 3D rendering and game engine
 * [VL.Stride.TextureFX](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.TextureFX) - Texture sources, filters and mixers
- 
-#### Shaders
-* [VL.Fuse](https://github.com/TheFuseLab/VL.Fuse) - An open-source library for visually programming on the GPU
-* [VL.Radiosity](https://github.com/michael-burk/VL.Radiosity) - 2D Radiosity Shader
+
+#### Shaders & Utils
+* [VL.2D.Voronoi](https://github.com/vvvv/VL.2D.Voronoi) - 
+* [VL.3D.Curve](https://github.com/torinos-yt/VL.3D.Curve) - 
 * [VL.Boids-GPU](https://github.com/torinos-yt/VL.Boids-GPU) - GPU Boids Simulation implemented in VL
-
-#### Video
-* [VL.Video](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Video) - Set of nodes for video capture and playback
-* [VL.HapPlayer](https://www.nuget.org/packages/VL.HapPlayer) - HAP GPU Video Playback Plugin (*requires a license*)
-
+* [VL.Fresnel](https://github.com/artrevinho/VL.Fresnel) -
+* [VL.Fuse.DomainExtensions](https://github.com/torinos-yt/VL.Fuse.DomainExtensions) - 
+* [VL.PolyTools](https://github.com/TobyKLight/VL.PolyTools) -  Tools for working with Polygons and Polypaths
+* [VL.Radiosity](https://github.com/michael-burk/VL.Radiosity) - 2D Radiosity Shader
+* [VL.ShadowCatcher](https://github.com/torinos-yt/VL.ShadowCatcher) -
+ 
 #### Text
 * [VL.Stride.Text3d](https://www.nuget.org/packages/VL.Stride.Text3d) - Set of nodes to create and render (extruded) 3D text 
 * [VL.RichTextKit](https://github.com/sebllll/VL.RichTextKit) - Wrapper for rich text in VL
 * [VL.BMFont](https://github.com/kopffarben/VL.BMFont)
 
-#### Other
-* [VL.PolyTools](https://github.com/TobyKLight/VL.PolyTools) -  Tools for working with Polygons and Polypaths
-* [VL.CEF](https://github.com/vvvv/VL.CEF) - Set of nodes to use the Chromium Embedded Framework (CEF)
+### Video
+* [VL.Video](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Video) - Set of nodes for video capture and playback
+* [VL.HapPlayer](https://www.nuget.org/packages/VL.HapPlayer) - HAP GPU Video Playback Plugin (*requires a license*)
+
+### Math & Algorithms
+* [VL.2D.CurveFitting](https://github.com/mhusinsky/VL.2D.CurveFitting) -
+* [VL.AetherPhysics](https://github.com/elektromeier/VL.AetherPhysics) - 
+* [VL.Attractors](https://github.com/juanhurle/VL.Attractors) - 
+* [VL.Dope](https://github.com/digitalwannabe/VL.Dope) - 
+* [VL.Interpolator](https://github.com/lasalillo/VL.Interpolator) - 
+* [VL.RogueSharp](https://github.com/TobyKLight/VL.RogueSharp) - 
 
 ### Control
 * [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition
@@ -73,8 +85,13 @@ A collection of libraries, resources and examples for vvvv and VL.
 ### Audio
 * [VL.Audio](https://github.com/vvvv/VL.Audio) - Record, play, filter, synthesize and analyse sound
 * [VL.GameAudioPlayer](https://github.com/TobyKLight/VL.GameAudioPlayer) - High level command based audio player
-* [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities for VL
 * [VL.SCSynth](https://github.com/cnisidis/VL.SCSynth) - SuperCollider Server Library for VL
+
+#### Utils
+* [VL.Accord](https://github.com/cnisidis/VL.Accord) - 
+* [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities for VL
+* [VL.Music](https://github.com/natan-sinigaglia/VL.Music) - 
+* [VL.Harmony](https://github.com/lasalillo/VL.Harmony) - 
 
 ### Projection Mapping
 * [VL.BadMapper](https://github.com/vvvv/VL.BadMapper) - Collection of tools for convenient manual blending (softedge) and warping (homography, bezier)
@@ -89,8 +106,9 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.IO.PLY](https://github.com/vvvv/VL.IO.PLY) - Provides support to read .ply files in VL
 * [VL.Rhino.3dm](https://github.com/wolfmoritzcramer/VL.Rhino.3dm) - A plugin to simplify the process of importing Rhinoceros 3D files
 * [VL.OpenEXR](https://github.com/torinos-yt/VL.OpenEXR) - A simple OpenEXR and .hdr image format loader
-  
+
 ### Protocols
+* [VL.BlueIOT](https://github.com/vvvv/VL.BlueIOT) - Support for the BlueIOT open API
 * [VL.IO.AbletonLink](https://github.com/SpaceMusicZH/VL.IO.AbletonLink) -  Wrapper for Ableton Link
 * [VL.IO.ArtNet](https://github.com/vvvv/VL.IO.ArtNet) - Support for sending and receiving Art-Net
 * [VL.IO.HTTP.WebServer](https://github.com/vvvv/VL.IO.HTTP.WebServer) - Set of nodes to use run a webserver
@@ -106,9 +124,9 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.IO.TCP](https://github.com/vvvv/VL.IO.TCP) - Set of nodes to use TCP
 * [VL.IO.TUIO](https://github.com/vvvv/VL.IO.TUIO) - Provides support for the TUIO protocol
 * [VL.IO.WebSocket](https://github.com/vvvv/VL.IO.WebSocket) - Set of nodes to use websocket client and server
-* [VL.BlueIOT](https://github.com/vvvv/VL.BlueIOT) - Support for the BlueIOT open API
 * [VL.PJLink](https://github.com/sebllll/VL.PJLink) - Nodes to connect and control projectors via the PJLink protocol
 * [VL.SimpleHTTP](https://github.com/sebescudie/VL.SimpleHTTP) - A super-simple set of nodes to perform basic HTTP queries
+* [VL.TUIO](https://github.com/InteractiveScapeGmbH/VL.TUIO) - 
 
 ### Devices
 
@@ -127,11 +145,10 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.ILDA](https://github.com/lasalillo/VL.ILDA) - ILDA laser control
 * [VL.M8Display](https://github.com/gamingrobot/VL.M8Display) - A library for Dirtywave M8 Remote Displays
   
-#### Cameras & Video Capture
+#### Cameras
 * [VL.Devices.Astra](https://github.com/vvvv/VL.Devices.Astra) - A package for using Astra depth cameras by Orbbec
 * [VL.Devices.AzureKinect](https://github.com/vvvv/VL.Devices.AzureKinect) - A package for using Azure Kinect depth cameras by Microsoft
 * [VL.Devices.AzureKinect.Body](https://github.com/vvvv/VL.Devices.AzureKinect.Body) - A package for using Azure Kinect body tracking
-* [VL.Devices.DeckLink](https://github.com/vvvv/VL.Devices.DeckLink) - A package for using DeckLink capture cards by Blackmagic Design
 * [VL.Devices.DigiCamControl](https://github.com/vvvv/VL.Devices.DigiCamControl) - A package for remote controlling DSLR cameras
 * [VL.Devices.IDS](https://github.com/vvvv/VL.Devices.IDS) - Support for uEye and uEye+ industrial cameras
 * [VL.Devices.Kinect](https://github.com/vvvv/VL.Devices.Kinect) - A package for using Kinect and Kinect XBOX 360 by Microsoft
@@ -146,59 +163,41 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 #### Physical Computing
 * Todo: https://thegraybook.vvvv.org/reference/libraries/physicalcomputing.html
+* [VL.IO.Firmata](https://github.com/vvvv/VL.IO.Firmata) - 
+
+#### Other Devices
+* [VL.Devices.DeckLink](https://github.com/vvvv/VL.Devices.DeckLink) - A package for using DeckLink capture cards by Blackmagic Design
+* [VL.Devices.Robotiq](https://github.com/phlegma/VL.Devices.Robotiq) -
 
 ### Machine Learning
 * Todo: https://thegraybook.vvvv.org/reference/libraries/machinelearning.html
+* [VL.Wekinator](https://github.com/sebescudie/VL.Wekinator) - 
+* [VL.2D.DollarQ](https://github.com/vvvv/VL.2D.DollarQ) - 
 
-### Tools & Extensions
+### System & Extensions
 * [VL.Benchmarks](https://github.com/tebjan/VL.Benchmarks) - A performance testing suite for VL
 * [VL.DebugInfo.HDE](https://github.com/sebescudie/VL.DebugInfo.HDE) - An editor extension that displays relevant debug information
-
-### Other / Todo
-* Todo: https://thegraybook.vvvv.org/reference/libraries/misc.html
-* [VL.3D.Curve](https://github.com/torinos-yt/VL.3D.Curve) - 
 * [VL.GlassWindow](https://github.com/torinos-yt/VL.GlassWindow) - 
-* [VL.RogueSharp](https://github.com/TobyKLight/VL.RogueSharp) - 
-* [VL.Postman](https://github.com/sebescudie/VL.Postman) - 
-* [VL.Fuse.DomainExtensions](https://github.com/torinos-yt/VL.Fuse.DomainExtensions) - 
-* [VL.Fresnel](https://github.com/artrevinho/VL.Fresnel) - 
-* [VL.OpenWeather](https://github.com/sebescudie/VL.OpenWeather) - 
-* [VL.TUIO.HDE](https://github.com/vvvv/VL.TUIO.HDE) - 
-* [VL.2D.CurveFitting](https://github.com/mhusinsky/VL.2D.CurveFitting) - 
-* [VL.Wekinator](https://github.com/sebescudie/VL.Wekinator) - 
-* [VL.QRCode](https://github.com/vvvv/VL.QRCode) - 
-* [VL.IO.Firmata](https://github.com/vvvv/VL.IO.Firmata) - 
 * [VL.ScreenRecorder](https://github.com/vvvv/VL.ScreenRecorder) - 
-* [VL.DemoLib](https://github.com/vvvv/VL.DemoLib) - 
-* [VL.Telegram](https://github.com/sebescudie/VL.Telegram) - 
-* [VL.2D.DollarQ](https://github.com/vvvv/VL.2D.DollarQ) - 
-* [VL.2D.Voronoi](https://github.com/vvvv/VL.2D.Voronoi) - 
-* [VL.StringExtensions](https://github.com/sebescudie/VL.StringExtensions) - 
-* [VL.ShadowCatcher](https://github.com/torinos-yt/VL.ShadowCatcher) - 
-* [VL.Attractors](https://github.com/juanhurle/VL.Attractors) - 
-* [VL.Music](https://github.com/natan-sinigaglia/VL.Music) - 
-* [VL.Snake](https://github.com/ravazquez/VL.Snake) - 
-* [VL.Breakout](https://github.com/ravazquez/VL.Breakout) - 
-* [VL.Dope](https://github.com/digitalwannabe/VL.Dope) - 
-* [VL.AetherPhysics](https://github.com/elektromeier/VL.AetherPhysics) - 
-* [VL.Interpolator](https://github.com/lasalillo/VL.Interpolator) - 
-* [VL.Harmony](https://github.com/lasalillo/VL.Harmony) - 
-* [VL.NewLibrary.Template](https://github.com/vvvv/VL.NewLibrary.Template) - 
-* [VL.Accord](https://github.com/cnisidis/VL.Accord) - 
-* [VL.TUIO](https://github.com/InteractiveScapeGmbH/VL.TUIO) - 
+* [VL.TUIO.HDE](https://github.com/vvvv/VL.TUIO.HDE) - 
+
+### Misc
+* Todo: https://thegraybook.vvvv.org/reference/libraries/misc.html
+* [VL.OpenWeather](https://github.com/sebescudie/VL.OpenWeather) - 
 * [VL.PDF](https://github.com/eqbic/VL.PDF) - 
-* [VL.Devices.Robotiq](https://github.com/phlegma/VL.Devices.Robotiq) -
-* 
+* [VL.Postman](https://github.com/sebescudie/VL.Postman) - 
+* [VL.QRCode](https://github.com/vvvv/VL.QRCode) - 
+* [VL.StringExtensions](https://github.com/sebescudie/VL.StringExtensions) - 
+* [VL.Telegram](https://github.com/sebescudie/VL.Telegram) - 
+ 
 ## Learning
 
 ### Tutorial NuGets
-
 * [VL.TheBigBang](https://github.com/chkworks/VL.TheBigBang) - A tutorial series of 42 chapters, covering all nodes and techniques to get you started.
 * [VL.ExtendedTutorials](https://github.com/TobyKLight/VL.ExtendedTutorials) -  Extended tutorial help patches, covering common questions as learners move from beginner towards intermediate.
 * [VL.GenerativeGestaltung](https://github.com/phlegma/VL.GenerativeGestaltung) - Sketches from the book "Generative Gestaltung" implemented in vvvv gamma.
 
 ### Tutorial Videos
-
 * [NODE20 Workshops](https://vimeo.com/showcase/node20workshops) - 30 workshops, 90 hours of learning, recorded at NODE20 Forum for Digital Arts in October 2020.
 * [Tutorial for Absolute Beginners of VL](https://youtube.com/playlist?list=PL2KeRstDQVRRVnzCHEambwAI4yWmpIF-p&si=Jn55GElh-JUdL-0A) - A tutorial series of 7 videos by chk, covering the most basic nodes and techniques.
 * [Intermediate Tutorials for vvvv gamma](https://youtube.com/playlist?list=PLEncasrnvr2bkPb0QKdU1DrDs4Hd_Jr0V&si=u3s4YfLRyV1Sl_R3) - Tutorials by TobyK, focusing on advanced topics about development and architecture.
@@ -207,15 +206,16 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [Midweek Patch Therapy](https://www.youtube.com/@midweekpatchtherapy3983) - Highlights from the weekly Midweek Patch Therapy meetings, created and hosted by domj.
 
 ### Examples
-
 * [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about implementing various design patterns taken from the book "Head First Design Patterns".
 * [VL.HeadFirstDesignPatterns](https://github.com/sebescudie/VL.HeadFirstDesignPatterns) - Repository containing examples of design patterns taken from the book "Head First Design Patterns". 
 * [TextureFX+](https://discourse.vvvv.org/t/texture-fx-vl-addons/21631) - A forum thread about TextureFX+, a collection of texture generators and filters gathered by the community.
 * [Nodevember 2022](https://discourse.vvvv.org/t/vl-examples-patches-playground01/21166) - Example patches by CeeYaa during Nodevember 2022.
 * [Genuary 2023](https://github.com/CeeYaa/Genuary2023) - Example patches by CeeYaa during Genuary 2023.
+* [VL.Snake](https://github.com/ravazquez/VL.Snake) - 
+* [VL.Breakout](https://github.com/ravazquez/VL.Breakout) - 
+* [VL.DemoLib](https://github.com/vvvv/VL.DemoLib) - 
 
 ### Online Courses
-
 * [The Stride Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-stride-bundle/)
 * [The Fuse Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-fuse-bundle/)
 * [Game Logic](https://thenodeinstitute.org/courses/ss23-vvvv-game-logic/)
@@ -223,20 +223,17 @@ A collection of libraries, resources and examples for vvvv and VL.
 ## Other Resources
 
 ### Tools
-
 * [MergeVLDocs](https://github.com/vvvv/MergeVLDocs) - A first step towards an easy-to-use visual merge tool
 * [Stride Shader Explorer](https://github.com/tebjan/Stride.ShaderExplorer) - A tool showing the built-in shaders of the Stride game engine and their inheritance hierarchy.
 * [List of Material Editors](https://discourse.vvvv.org/t/open-source-material-editor-material-creation-resource-list/19185) - Forum thread about open-source material editors.
 
 ### Software made with VL
-
 * [GammaLauncher](https://github.com/sebescudie/GammaLauncher) - A simple launcher for vvvv gamma.
 * [Remoter](https://github.com/vvvv/Remoter) -  GUI over PAExec and robocopy to remote a bunch of PCs at once.
 * [Schema](https://github.com/domjancik/scnq-schema) - An intuitive visual programming interface and runtime.
 * [TexconvGui](https://github.com/bj-rn/texconvgui) - A simple Gui for Microsoft's Texconv to batch convert images.
 
 ### Articles
-
 * [About vvvv gamma](https://thenodeinstitute.org/about-vvvv-gamma/) - The NODE Institute
 * [Resolume vs. TouchDesigner vs. vvvv](https://interactiveimmersive.io/blog/technology/resolume-vs-touchdesigner/) - The Interactive & Immersive HQ
 * [The flow of creative expression: Paving the way for vvvv](https://meso.design/en/articles/the-flow-of-creative-expression-paving-the-way-for-vvvv) - MESO
