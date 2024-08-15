@@ -48,7 +48,7 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 * [VL.BadMapper](https://github.com/vvvv/VL.BadMapper) - A collection of tools for convenient manual blending (softedge) and warping (homography, bezier) of content.
 
-### UI
+### User Interfaces
 
 * [VL.ImGui](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui) - A node set around ImGui to render user interfaces in Skia and Stride
 * [VL.Elementa](https://github.com/natan-sinigaglia/VL.Elementa) -  Collection of UI widgets for easy UI prototyping
