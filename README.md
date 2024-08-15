@@ -29,7 +29,6 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.Skia3d](https://github.com/vvvv/VL.Skia3d) - A simple 3D addon for VL.Skia
 * [VL.Stride](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride) - The main 3D rendering and game engine
 * [VL.Stride.TextureFX](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.TextureFX) - Texture sources, filters and mixers
-* [VL.Stride.Text3d](https://www.nuget.org/packages/VL.Stride.Text3d) - Set of nodes to create and render (extruded) 3D text 
 * [VL.Fuse](https://github.com/TheFuseLab/VL.Fuse) - A library for visually programming on the GPU
 * [VL.PolyTools](https://github.com/TobyKLight/VL.PolyTools) -  Tools for working with Polygons and Polypaths
 * [VL.CEF](https://github.com/vvvv/VL.CEF) - Set of nodes to use the Chromium Embedded Framework (CEF)
@@ -37,11 +36,18 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.Radiosity](https://github.com/michael-burk/VL.Radiosity) - 2D Radiosity Shader
 * [VL.Boids-GPU](https://github.com/torinos-yt/VL.Boids-GPU) - GPU Boids Simulation implemented in VL
 
+### Text
+
+* [VL.Stride.Text3d](https://www.nuget.org/packages/VL.Stride.Text3d) - Set of nodes to create and render (extruded) 3D text 
+* [VL.RichTextKit](https://github.com/sebllll/VL.RichTextKit) - Wrapper for rich text in VL
+* [VL.BMFont](https://github.com/kopffarben/VL.BMFont)
+
 ### File Formats
 
 * [VL.Alembic](https://github.com/torinos-yt/VL.Alembic) - A plugin to read .abc Alembic files.
 * [VL.Assimp](https://github.com/texone/VL.Assimp) - An alternative 3d model loader for Stride
 * [VL.IO.PLY](https://github.com/vvvv/VL.IO.PLY) - Provides support to read .ply files in VL
+* [VL.Rhino.3dm](https://github.com/wolfmoritzcramer/VL.Rhino.3dm) - A plugin to simplify the process of importing Rhinoceros 3D files
 * [VL.OpenEXR](https://github.com/torinos-yt/VL.OpenEXR) - A simple OpenEXR and .hdr image format loader
 
 ### Projection Mapping
@@ -55,13 +61,19 @@ A collection of libraries, resources and examples for vvvv and VL.
 ### User Interfaces
 
 * [VL.ImGui](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui) - A node set around ImGui to render user interfaces in Skia and Stride
-* [VL.Elementa](https://github.com/natan-sinigaglia/VL.Elementa) -  Collection of UI widgets for easy UI prototyping
+* [VL.Elementa](https://github.com/natan-sinigaglia/VL.Elementa) -  Collection of widgets for easy UI prototyping
 
 ### Control
 
 * [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition
 * [VL.AutomataUI](https://github.com/wirmachenbunt/AutomataUI.NET) - A finite statemachine editor for .NET
 * [VL.LoopTool](https://github.com/vjgegenlicht/VL.LoopTool) -  A small toolset to create video loops and record them
+
+### Computer Vision
+
+* [VL.OpenCV](https://github.com/vvvv/VL.OpenCV) - A VL wrapper for OpenCVSharp
+* [VL.MediaPipe](https://github.com/vvvv/VL.MediaPipe) - Camera tracking, image segmentation and object detection from a video stream
+* [VL.Augmenta](https://github.com/vvvv/VL.Augmenta) - Support for Augmenta Tracking Technology in VL
 
 ### Audio
 
@@ -79,6 +91,10 @@ A collection of libraries, resources and examples for vvvv and VL.
 ### Devices
 
 * [VL.IO.MouseKeyGlobal](https://github.com/bj-rn/VL.IO.MouseKeyGlobal) - Global mouse and keyboard hook
+
+#### Cameras
+
+
 
 ### Other
 
@@ -105,6 +121,7 @@ A collection of libraries, resources and examples for vvvv and VL.
 ### Examples
 
 * [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about VL implementations of the book "Head First Design Patterns".
+* [TextureFX+](https://discourse.vvvv.org/t/texture-fx-vl-addons/21631) - A forum thread about TextureFX+, a collection of texture generators and filters gathered by the community.
 * [Nodevember 2022](https://discourse.vvvv.org/t/vl-examples-patches-playground01/21166) - Example patches by CeeYaa during Nodevember 2022.
 * [Genuary 2023](https://github.com/CeeYaa/Genuary2023) - Example patches by CeeYaa during Genuary 2023.
 
