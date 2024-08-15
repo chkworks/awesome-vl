@@ -33,7 +33,6 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.Addons](https://github.com/bj-rn/VL.Addons) - A place to gather contributions by the vvvv community, including a great amount of extended texture generators and filters
 
 ### Rendering
-
 * [VL.Skia](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Skia) - The main 2D rendering engine
 * [VL.Skia3d](https://github.com/vvvv/VL.Skia3d) - A simple 3D addon for VL.Skia
 * [VL.Stride](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride) - The main 3D rendering and game engine
@@ -42,35 +41,15 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.PolyTools](https://github.com/TobyKLight/VL.PolyTools) -  Tools for working with Polygons and Polypaths
 * [VL.CEF](https://github.com/vvvv/VL.CEF) - Set of nodes to use the Chromium Embedded Framework (CEF)
 * [VL.Video](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Video) - Set of nodes for video capture and playback
-* [VL.Radiosity](https://github.com/michael-burk/VL.Radiosity) - 2D Radiosity Shader
-* [VL.Boids-GPU](https://github.com/torinos-yt/VL.Boids-GPU) - GPU Boids Simulation implemented in VL
 
-### Text
-
+#### Text
 * [VL.Stride.Text3d](https://www.nuget.org/packages/VL.Stride.Text3d) - Set of nodes to create and render (extruded) 3D text 
 * [VL.RichTextKit](https://github.com/sebllll/VL.RichTextKit) - Wrapper for rich text in VL
 * [VL.BMFont](https://github.com/kopffarben/VL.BMFont)
 
-### File Formats
-
-* [VL.Alembic](https://github.com/torinos-yt/VL.Alembic) - A plugin to read .abc Alembic files.
-* [VL.Assimp](https://github.com/texone/VL.Assimp) - An alternative 3d model loader for Stride
-* [VL.IO.PLY](https://github.com/vvvv/VL.IO.PLY) - Provides support to read .ply files in VL
-* [VL.Rhino.3dm](https://github.com/wolfmoritzcramer/VL.Rhino.3dm) - A plugin to simplify the process of importing Rhinoceros 3D files
-* [VL.OpenEXR](https://github.com/torinos-yt/VL.OpenEXR) - A simple OpenEXR and .hdr image format loader
-
-### Projection Mapping
-
-* [VL.BadMapper](https://github.com/vvvv/VL.BadMapper) - Collection of tools for convenient manual blending (softedge) and warping (homography, bezier)
-* [VL.Mapper](https://github.com/zekeadam/VL.Mapper) - Projection mapping tool for vvvv
-* [VL.VIOSOWarpBlend](https://github.com/vvvv/VL.VIOSOWarpBlend) -  Wrapper for the VIOSO WarpBlend API
-* [VL.ScalableDisplay](https://www.nuget.org/packages/VL.ScalableDisplay) - Support for the auto projector-alignment technology by Scalable Display Solutions (not open-source)
-* [VL.Domemaster](https://discourse.vvvv.org/t/vl-domemaster/20660) - Example to render a scene in the Domemaster format (forum post)
-
-### User Interfaces
-
-* [VL.ImGui](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui) - A node set around ImGui to render user interfaces in Skia and Stride
-* [VL.Elementa](https://github.com/natan-sinigaglia/VL.Elementa) -  Collection of widgets for easy UI prototyping
+#### Shaders
+* [VL.Radiosity](https://github.com/michael-burk/VL.Radiosity) - 2D Radiosity Shader
+* [VL.Boids-GPU](https://github.com/torinos-yt/VL.Boids-GPU) - GPU Boids Simulation implemented in VL
 
 ### Control
 
@@ -84,28 +63,60 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.MediaPipe](https://github.com/vvvv/VL.MediaPipe) - Camera tracking, image segmentation and object detection from a video stream
 * [VL.Augmenta](https://github.com/vvvv/VL.Augmenta) - Support for Augmenta Tracking Technology in VL
 
+### User Interfaces
+
+* [VL.ImGui](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui) - A node set around ImGui to render user interfaces in Skia and Stride
+* [VL.Elementa](https://github.com/natan-sinigaglia/VL.Elementa) -  Collection of widgets for easy UI prototyping
+
 ### Audio
 
 * [VL.Audio](https://github.com/vvvv/VL.Audio) - Record, play, filter, synthesize and analyse sound
 * [VL.GameAudioPlayer](https://github.com/TobyKLight/VL.GameAudioPlayer) - High level command based audio player
-* [VL.IO.Midi](https://github.com/vvvv/VL.IO.Midi) -  Midi nodes and tools
-* [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities for VL
-* [VL.IO.AbletonLink](https://github.com/SpaceMusicZH/VL.IO.AbletonLink) -  VL wrapper for Ableton Link
 * [VL.SCSynth](https://github.com/cnisidis/VL.SCSynth) - SuperCollider Server Library for VL
 
-### Networking
+### Projection Mapping
 
-... Todo
+* [VL.BadMapper](https://github.com/vvvv/VL.BadMapper) - Collection of tools for convenient manual blending (softedge) and warping (homography, bezier)
+* [VL.Mapper](https://github.com/zekeadam/VL.Mapper) - Projection mapping tool for vvvv
+* [VL.VIOSOWarpBlend](https://github.com/vvvv/VL.VIOSOWarpBlend) -  Wrapper for the VIOSO WarpBlend API
+* [VL.ScalableDisplay](https://www.nuget.org/packages/VL.ScalableDisplay) - Support for the auto projector-alignment technology by Scalable Display Solutions (not open-source)
+* [VL.Domemaster](https://discourse.vvvv.org/t/vl-domemaster/20660) - Example to render a scene in the Domemaster format (forum post)
+
+### File Formats
+
+* [VL.Alembic](https://github.com/torinos-yt/VL.Alembic) - A plugin to read .abc Alembic files.
+* [VL.Assimp](https://github.com/texone/VL.Assimp) - An alternative 3d model loader for Stride
+* [VL.IO.PLY](https://github.com/vvvv/VL.IO.PLY) - Provides support to read .ply files in VL
+* [VL.Rhino.3dm](https://github.com/wolfmoritzcramer/VL.Rhino.3dm) - A plugin to simplify the process of importing Rhinoceros 3D files
+* [VL.OpenEXR](https://github.com/torinos-yt/VL.OpenEXR) - A simple OpenEXR and .hdr image format loader
+  
+### Protocols
+
+* [VL.IO.AbletonLink](https://github.com/SpaceMusicZH/VL.IO.AbletonLink) -  Wrapper for Ableton Link
+* [VL.IO.Midi](https://github.com/vvvv/VL.IO.Midi) -  Midi nodes and tools
+* [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities for VL
+* [VL.IO.ArtNet](https://github.com/vvvv/VL.IO.ArtNet) - Support for sending and receiving Art-Net
 
 ### Devices
 
+* [VL.Devices.ENTTEC](https://github.com/vvvv/VL.Devices.ENTTEC) - Support for ENTTEC DMX devices
+* [VL.Devices.StreamDeck](https://github.com/mhusinsky/VL.Devices.StreamDeck) - A package for using Elgato StreamDeck button displays
 * [VL.IO.MouseKeyGlobal](https://github.com/bj-rn/VL.IO.MouseKeyGlobal) - Global mouse and keyboard hook
+* [VL.ILDA](https://github.com/lasalillo/VL.ILDA) - ILDA laser control
 
 #### Cameras
 
+* [VL.Devices.Astra](https://github.com/vvvv/VL.Devices.Astra) - A package for using Astra depth cameras by Orbbec
+* [VL.Devices.AzureKinect](https://github.com/vvvv/VL.Devices.AzureKinect) - A package for using Azure Kinect depth cameras by Microsoft
+* [VL.Devices.AzureKinect.Body](https://github.com/vvvv/VL.Devices.AzureKinect.Body) - A package for using Azure Kinect body tracking
+* [VL.Devices.Kinect](https://github.com/vvvv/VL.Devices.Kinect) - A package for using Kinect and Kinect XBOX 360 by Microsoft
+* [VL.Devices.Kinect2](https://github.com/vvvv/VL.Devices.Kinect2) - A package for using Kinect2 depth cameras by Microsoft in VL
+* [VL.Devices.LeapOrion](https://github.com/vvvv/VL.Devices.LeapOrion) - A package for using the Motion Controller by Ultraleap, using the Orion SDK
+* [VL.Devices.NuiTrack](https://github.com/vvvv/VL.Devices.NuiTrack) - A package for using the Nuitrack depth camera API
+* [VL.Devices.RealSense](https://github.com/vvvv/VL.Devices.RealSense) - A package for using RealSense depth cameras by Intel
+* [VL.Devices.ZED](https://github.com/vvvv/VL.Devices.ZED) - A package for using ZED depth cameras by Stereolabs
 
-
-### Other
+### Analysis
 
 * VL.Benchmarks
 * System Info
