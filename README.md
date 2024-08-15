@@ -150,13 +150,45 @@ A collection of libraries, resources and examples for vvvv and VL.
 ### Machine Learning
 * Todo: https://thegraybook.vvvv.org/reference/libraries/machinelearning.html
 
-### Analysis
-* Todo: VL.Benchmarks
-* Todo: System Info
+### Tools & Extensions
+* [VL.Benchmarks](https://github.com/tebjan/VL.Benchmarks) - A performance testing suite for VL
+* [VL.DebugInfo.HDE](https://github.com/sebescudie/VL.DebugInfo.HDE) - An editor extension that displays relevant debug information
 
-### Other
+### Other / Todo
 * Todo: https://thegraybook.vvvv.org/reference/libraries/misc.html
-
+* [VL.3D.Curve](https://github.com/torinos-yt/VL.3D.Curve) - 
+* [VL.GlassWindow](https://github.com/torinos-yt/VL.GlassWindow) - 
+* [VL.RogueSharp](https://github.com/TobyKLight/VL.RogueSharp) - 
+* [VL.Postman](https://github.com/sebescudie/VL.Postman) - 
+* [VL.Fuse.DomainExtensions](https://github.com/torinos-yt/VL.Fuse.DomainExtensions) - 
+* [VL.Fresnel](https://github.com/artrevinho/VL.Fresnel) - 
+* [VL.OpenWeather](https://github.com/sebescudie/VL.OpenWeather) - 
+* [VL.TUIO.HDE](https://github.com/vvvv/VL.TUIO.HDE) - 
+* [VL.2D.CurveFitting](https://github.com/mhusinsky/VL.2D.CurveFitting) - 
+* [VL.Wekinator](https://github.com/sebescudie/VL.Wekinator) - 
+* [VL.QRCode](https://github.com/vvvv/VL.QRCode) - 
+* [VL.IO.Firmata](https://github.com/vvvv/VL.IO.Firmata) - 
+* [VL.ScreenRecorder](https://github.com/vvvv/VL.ScreenRecorder) - 
+* [VL.DemoLib](https://github.com/vvvv/VL.DemoLib) - 
+* [VL.Telegram](https://github.com/sebescudie/VL.Telegram) - 
+* [VL.2D.DollarQ](https://github.com/vvvv/VL.2D.DollarQ) - 
+* [VL.2D.Voronoi](https://github.com/vvvv/VL.2D.Voronoi) - 
+* [VL.StringExtensions](https://github.com/sebescudie/VL.StringExtensions) - 
+* [VL.ShadowCatcher](https://github.com/torinos-yt/VL.ShadowCatcher) - 
+* [VL.Attractors](https://github.com/juanhurle/VL.Attractors) - 
+* [VL.Music](https://github.com/natan-sinigaglia/VL.Music) - 
+* [VL.Snake](https://github.com/ravazquez/VL.Snake) - 
+* [VL.Breakout](https://github.com/ravazquez/VL.Breakout) - 
+* [VL.Dope](https://github.com/digitalwannabe/VL.Dope) - 
+* [VL.AetherPhysics](https://github.com/elektromeier/VL.AetherPhysics) - 
+* [VL.Interpolator](https://github.com/lasalillo/VL.Interpolator) - 
+* [VL.Harmony](https://github.com/lasalillo/VL.Harmony) - 
+* [VL.NewLibrary.Template](https://github.com/vvvv/VL.NewLibrary.Template) - 
+* [VL.Accord](https://github.com/cnisidis/VL.Accord) - 
+* [VL.TUIO](https://github.com/InteractiveScapeGmbH/VL.TUIO) - 
+* [VL.PDF](https://github.com/eqbic/VL.PDF) - 
+* [VL.Devices.Robotiq](https://github.com/phlegma/VL.Devices.Robotiq) -
+* 
 ## Learning
 
 ### Tutorial NuGets
@@ -176,7 +208,8 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 ### Examples
 
-* [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about VL implementations of the book "Head First Design Patterns".
+* [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about implementing various design patterns taken from the book "Head First Design Patterns".
+* [VL.HeadFirstDesignPatterns](https://github.com/sebescudie/VL.HeadFirstDesignPatterns) - Repository containing examples of design patterns taken from the book "Head First Design Patterns". 
 * [TextureFX+](https://discourse.vvvv.org/t/texture-fx-vl-addons/21631) - A forum thread about TextureFX+, a collection of texture generators and filters gathered by the community.
 * [Nodevember 2022](https://discourse.vvvv.org/t/vl-examples-patches-playground01/21166) - Example patches by CeeYaa during Nodevember 2022.
 * [Genuary 2023](https://github.com/CeeYaa/Genuary2023) - Example patches by CeeYaa during Genuary 2023.
