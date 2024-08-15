@@ -104,3 +104,4 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 * [About vvvv gamma](https://thenodeinstitute.org/about-vvvv-gamma/) - The NODE Institute
 * [The flow of creative expression: Paving the way for vvvv](https://meso.design/en/articles/the-flow-of-creative-expression-paving-the-way-for-vvvv) - MESO
+* [What is VVVV + Fuse and Why It's a Powerful Combo for New Media](https://www.dataisbeautiful.club/post/what-is-vvvv-fuse-and-why-it-s-a-powerful-combo-for-new-media) - Ameen Insan
