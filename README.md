@@ -3,6 +3,8 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 ## Official Channels
 
+### vvvv Group
+
 * [visualprogramming.net](https://visualprogramming.net) - The official website for vvvv gamma
 * [vvvv.org](https://vvvv.org) - The old website for vvvv beta
 * [Forum](https://discourse.vvvv.org) - The official forum
@@ -10,14 +12,14 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [vvvvTV](https://www.youtube.com/@vvvvTv42) - The official YouTube channel
 * [VL-Language](https://github.com/vvvv/VL-Language) -  The official repo for the design of the VL programming language 
 
-## Community Channels
+### Community Channels
 
 * [The NODE Institute](https://thenodeinstitute.org/) - Institute for applied creative computation, hosting user meetups, workshops, webinars and online courses for creative coding and media arts.
 * [NODE Forum](https://nodeforum.org/) - A platform for sharing and investigating creative technologies, for artistic research and cultural and political media education.
 * [Stride](stride3d.net/) - A free and open-source cross-platform C# game engine.
 * [thefuselab.io](https://www.thefuselab.io/) - The official website of FUSE, the open-source library for visually programming on the GPU.
 
-## Sponsoring
+### Sponsoring Pages
 * [Stride on OpenCollective](https://opencollective.com/stride3d) - Sponsoring page for Stride, the open-source game enginge that provides the backend for 3D rendering in vvvv.
 * [The Fuse Lab on OpenCollective](https://opencollective.com/the-fuse-lab) - Sponsoring page for the VL.Fuse library.
 * [Kairos Research Lab on OpenCollective](https://opencollective.com/the-fuse-lab) - Sponsoring page for the VL.Kairos library.
