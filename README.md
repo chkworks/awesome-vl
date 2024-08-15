@@ -41,32 +41,32 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.Stride](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride) - The main 3D rendering and game engine
 * [VL.Stride.TextureFX](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Stride.TextureFX) - Texture sources, filters and mixers
 
-#### Shaders & Utils
-* [VL.2D.Voronoi](https://github.com/vvvv/VL.2D.Voronoi) - 
-* [VL.3D.Curve](https://github.com/torinos-yt/VL.3D.Curve) - 
+#### Shaders & Renderung Utils
+* [VL.2D.CurveFitting](https://github.com/mhusinsky/VL.2D.CurveFitting) - Nodes to create bezier lines from input points
+* [VL.2D.Voronoi](https://github.com/vvvv/VL.2D.Voronoi) - Nodes to generate voronoi diagrams
+* [VL.3D.Curve](https://github.com/torinos-yt/VL.3D.Curve) - A library to render 3d curves with VL.Stride
+* [VL.AetherPhysics](https://github.com/elektromeier/VL.AetherPhysics) - A library based on Aether Physics
+* [VL.Attractors](https://github.com/juanhurle/VL.Attractors) - Attractor library for VL.Fuse
 * [VL.Boids-GPU](https://github.com/torinos-yt/VL.Boids-GPU) - GPU Boids Simulation implemented in VL
-* [VL.Fresnel](https://github.com/artrevinho/VL.Fresnel) -
-* [VL.Fuse.DomainExtensions](https://github.com/torinos-yt/VL.Fuse.DomainExtensions) - 
+* [VL.Dope](https://github.com/digitalwannabe/VL.Dope) - Deform objects by points and edges
+* [VL.Fresnel](https://github.com/artrevinho/VL.Fresnel) - Fresnel Shader for VL.Stride
+* [VL.Fuse.DomainExtensions](https://github.com/torinos-yt/VL.Fuse.DomainExtensions) - *todo*
 * [VL.PolyTools](https://github.com/TobyKLight/VL.PolyTools) -  Tools for working with Polygons and Polypaths
 * [VL.Radiosity](https://github.com/michael-burk/VL.Radiosity) - 2D Radiosity Shader
-* [VL.ShadowCatcher](https://github.com/torinos-yt/VL.ShadowCatcher) -
+* [VL.ShadowCatcher](https://github.com/torinos-yt/VL.ShadowCatcher) - *todo*
  
 #### Text
 * [VL.Stride.Text3d](https://www.nuget.org/packages/VL.Stride.Text3d) - Set of nodes to create and render (extruded) 3D text 
 * [VL.RichTextKit](https://github.com/sebllll/VL.RichTextKit) - Wrapper for rich text in VL
-* [VL.BMFont](https://github.com/kopffarben/VL.BMFont)
+* [VL.BMFont](https://github.com/kopffarben/VL.BMFont) - *todo*
 
 ### Video
 * [VL.Video](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Video) - Set of nodes for video capture and playback
 * [VL.HapPlayer](https://www.nuget.org/packages/VL.HapPlayer) - HAP GPU Video Playback Plugin (*requires a license*)
 
 ### Math & Algorithms
-* [VL.2D.CurveFitting](https://github.com/mhusinsky/VL.2D.CurveFitting) -
-* [VL.AetherPhysics](https://github.com/elektromeier/VL.AetherPhysics) - 
-* [VL.Attractors](https://github.com/juanhurle/VL.Attractors) - 
-* [VL.Dope](https://github.com/digitalwannabe/VL.Dope) - 
-* [VL.Interpolator](https://github.com/lasalillo/VL.Interpolator) - 
-* [VL.RogueSharp](https://github.com/TobyKLight/VL.RogueSharp) - 
+* [VL.Interpolator](https://github.com/lasalillo/VL.Interpolator) - Nodes to interpolate any kind of type
+* [VL.RogueSharp](https://github.com/TobyKLight/VL.RogueSharp) - A library for game development of roguelikes, including methods for pathfinding and field of view
 
 ### Control
 * [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition
@@ -76,7 +76,7 @@ A collection of libraries, resources and examples for vvvv and VL.
 ### Computer Vision
 * [VL.OpenCV](https://github.com/vvvv/VL.OpenCV) - A VL wrapper for OpenCVSharp
 * [VL.MediaPipe](https://github.com/vvvv/VL.MediaPipe) - Camera tracking, image segmentation and object detection from a video stream
-* [VL.Augmenta](https://github.com/vvvv/VL.Augmenta) - Support for Augmenta Tracking Technology in VL
+* [VL.Augmenta](https://github.com/vvvv/VL.Augmenta) - Support for Augmenta tracking technology
 
 ### User Interfaces
 * [VL.ImGui](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui) - A node set around ImGui to render user interfaces in Skia and Stride
@@ -87,11 +87,11 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.GameAudioPlayer](https://github.com/TobyKLight/VL.GameAudioPlayer) - High level command based audio player
 * [VL.SCSynth](https://github.com/cnisidis/VL.SCSynth) - SuperCollider Server Library for VL
 
-#### Utils
-* [VL.Accord](https://github.com/cnisidis/VL.Accord) - 
-* [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities for VL
-* [VL.Music](https://github.com/natan-sinigaglia/VL.Music) - 
-* [VL.Harmony](https://github.com/lasalillo/VL.Harmony) - 
+#### Music Utils
+* [VL.Accord](https://github.com/cnisidis/VL.Accord) - *todo*
+* [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities
+* [VL.Music](https://github.com/natan-sinigaglia/VL.Music) - Collection of music related tools
+* [VL.Harmony](https://github.com/lasalillo/VL.Harmony) - Library for working with musical concepts
 
 ### Projection Mapping
 * [VL.BadMapper](https://github.com/vvvv/VL.BadMapper) - Collection of tools for convenient manual blending (softedge) and warping (homography, bezier)
@@ -100,14 +100,16 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.ScalableDisplay](https://www.nuget.org/packages/VL.ScalableDisplay) - Support for the auto projector-alignment technology by Scalable Display Solutions (not open-source)
 * [VL.Domemaster](https://discourse.vvvv.org/t/vl-domemaster/20660) - Example to render a scene in the Domemaster format (forum post)
 
-### File Formats
+### IO
+
+#### File Formats
 * [VL.Alembic](https://github.com/torinos-yt/VL.Alembic) - A plugin to read .abc Alembic files.
 * [VL.Assimp](https://github.com/texone/VL.Assimp) - An alternative 3d model loader for Stride
 * [VL.IO.PLY](https://github.com/vvvv/VL.IO.PLY) - Provides support to read .ply files in VL
 * [VL.Rhino.3dm](https://github.com/wolfmoritzcramer/VL.Rhino.3dm) - A plugin to simplify the process of importing Rhinoceros 3D files
 * [VL.OpenEXR](https://github.com/torinos-yt/VL.OpenEXR) - A simple OpenEXR and .hdr image format loader
 
-### Protocols
+#### Protocols
 * [VL.BlueIOT](https://github.com/vvvv/VL.BlueIOT) - Support for the BlueIOT open API
 * [VL.IO.AbletonLink](https://github.com/SpaceMusicZH/VL.IO.AbletonLink) -  Wrapper for Ableton Link
 * [VL.IO.ArtNet](https://github.com/vvvv/VL.IO.ArtNet) - Support for sending and receiving Art-Net
@@ -126,7 +128,7 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.IO.WebSocket](https://github.com/vvvv/VL.IO.WebSocket) - Set of nodes to use websocket client and server
 * [VL.PJLink](https://github.com/sebllll/VL.PJLink) - Nodes to connect and control projectors via the PJLink protocol
 * [VL.SimpleHTTP](https://github.com/sebescudie/VL.SimpleHTTP) - A super-simple set of nodes to perform basic HTTP queries
-* [VL.TUIO](https://github.com/InteractiveScapeGmbH/VL.TUIO) - 
+* [VL.TUIO](https://github.com/InteractiveScapeGmbH/VL.TUIO) - Alternative TUIO library based on TUIO.Net
 
 ### Devices
 
