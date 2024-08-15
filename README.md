@@ -191,6 +191,7 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 ### Tools
 
+* [MergeVLDocs](https://github.com/vvvv/MergeVLDocs) - A first step towards an easy-to-use visual merge tool
 * [Stride Shader Explorer](https://github.com/tebjan/Stride.ShaderExplorer) - A tool showing the built-in shaders of the Stride game engine and their inheritance hierarchy.
 * [List of Material Editors](https://discourse.vvvv.org/t/open-source-material-editor-material-creation-resource-list/19185) - Forum thread about open-source material editors.
 
