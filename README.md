@@ -16,11 +16,11 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 * [The NODE Institute](https://thenodeinstitute.org/) - Institute for applied creative computation, hosting user meetups, workshops, webinars and online courses for creative coding and media arts.
 * [NODE Forum](https://nodeforum.org/) - A platform for sharing and investigating creative technologies, for artistic research and cultural and political media education.
-* [Stride](stride3d.net/) - A free and open-source cross-platform C# game engine.
+* [Stride](stride3d.net/) - The official website of Stride, the open-source game enginge that provides the backend for 3D rendering in vvvv
 * [thefuselab.io](https://www.thefuselab.io/) - The official website of FUSE, the open-source library for visually programming on the GPU.
 
 ### Sponsoring Pages
-* [Stride on OpenCollective](https://opencollective.com/stride3d) - Sponsoring page for Stride, the open-source game enginge that provides the backend for 3D rendering in vvvv.
+* [Stride on OpenCollective](https://opencollective.com/stride3d) - Sponsoring page for the Stride game engine.
 * [The Fuse Lab on OpenCollective](https://opencollective.com/the-fuse-lab) - Sponsoring page for the VL.Fuse library.
 * [Kairos Research Lab on OpenCollective](https://opencollective.com/the-fuse-lab) - Sponsoring page for the VL.Kairos library.
 
