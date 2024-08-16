@@ -64,8 +64,8 @@ Feel free to contribute to this list!
 * [VL.HapPlayer](https://www.nuget.org/packages/VL.HapPlayer) - HAP GPU Video Playback Plugin (*requires a license*)
  
 #### Text
-* [VL.Stride.Text3d](https://github.com/bj-rn/VL.Stride.Text3d) - Set of nodes to create and render (extruded) 3D text 
-* [VL.RichTextKit](https://github.com/sebllll/VL.RichTextKit) - Wrapper for rich text in VL
+* [VL.Stride.Text3d](https://github.com/bj-rn/VL.Stride.Text3d) - Nodes to render extruded 3D text 
+* [VL.RichTextKit](https://github.com/sebllll/VL.RichTextKit) - Wrapper for rich text rendering
 * [VL.BMFont](https://github.com/kopffarben/VL.BMFont) - *todo*
 
 ### Control
