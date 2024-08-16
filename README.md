@@ -90,6 +90,8 @@ Feel free to contribute to this list!
 
 ### Audio
 * [VL.Audio](https://github.com/vvvv/VL.Audio) - Record, play, filter, synthesize and analyse sound
+* [VL.Audio.GPL](https://github.com/vvvv/VL.Audio.GPL) - GPL licensed extensions to VL.Audio
+* [VL.Audio.LTC](https://github.com/bj-rn/VL.Audio.LTC) - Nodes to encode and decode Linear (or Longitudinal) Timecode (LTC) in VL.Audio
 * [VL.GameAudioPlayer](https://github.com/TobyKLight/VL.GameAudioPlayer) - High level command based audio player
 * [VL.SCSynth](https://github.com/cnisidis/VL.SCSynth) - SuperCollider Server Library for VL
 
