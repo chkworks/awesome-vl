@@ -223,10 +223,10 @@ Feel free to contribute to this list!
 * [VL.GenerativeGestaltung](https://github.com/phlegma/VL.GenerativeGestaltung) - Sketches from the book "Generative Gestaltung" implemented in vvvv gamma.
 
 ### Tutorial Videos
-* [NODE20 Workshops](https://vimeo.com/showcase/node20workshops) - 30 workshops, 90 hours of learning, recorded at NODE20 Forum for Digital Arts in October 2020.
 * [Tutorial for Absolute Beginners of VL](https://youtube.com/playlist?list=PL2KeRstDQVRRVnzCHEambwAI4yWmpIF-p&si=Jn55GElh-JUdL-0A) - A tutorial series of 7 videos by chk, covering the most basic nodes and techniques.
 * [Intermediate Tutorials for vvvv gamma](https://youtube.com/playlist?list=PLEncasrnvr2bkPb0QKdU1DrDs4Hd_Jr0V&si=u3s4YfLRyV1Sl_R3) - Tutorials by TobyK, focusing on advanced topics about development and architecture.
 * [vvvv gamma graphics tutorials](https://youtube.com/playlist?list=PLK3HDkvkLePRQpgCIb8dL9CRSYOTmNbdI&si=lzo2KiwN2iz5HaB1) - Tutorials focusing on techniques on how to generate cool graphics by Takuma Nakata.
+* [NODE20 Workshops](https://vimeo.com/showcase/node20workshops) - 30 workshops, 90 hours of learning, recorded at NODE20 Forum for Digital Arts in October 2020.
 * [Model Runtime Editor Design Pattern](https://vvvv.org/contribution/model-runtime-editor-design-pattern) - A convenient way to structure your software and build a flexible app architecture.
 * [Midweek Patch Therapy](https://www.youtube.com/@midweekpatchtherapy3983) - Highlights from the weekly Midweek Patch Therapy meetings, created and hosted by domj.
 
@@ -239,6 +239,7 @@ Feel free to contribute to this list!
 * [VL.Snake](https://github.com/ravazquez/VL.Snake) - A VL clone of the game Snake
 * [VL.Breakout](https://github.com/ravazquez/VL.Breakout) - A VL clone of the game Breakout
 * [VL.DemoLib](https://github.com/vvvv/VL.DemoLib) - A demo library showing how to write nodes in C#
+* [Kartinki](https://github.com/kidhop/Kartinki) - A game for children - your draw with words, then color with numbers
 
 ### Online Courses
 * [The Stride Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-stride-bundle/) - 5 intermediate courses focusing on VL.Stride
