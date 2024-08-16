@@ -93,7 +93,6 @@ Feel free to contribute to this list!
 * [VL.SCSynth](https://github.com/cnisidis/VL.SCSynth) - SuperCollider Server Library for VL
 
 #### Music Utils
-* [VL.Accord](https://github.com/cnisidis/VL.Accord) - *todo*
 * [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities
 * [VL.Music](https://github.com/natan-sinigaglia/VL.Music) - Collection of music related tools
 * [VL.Harmony](https://github.com/lasalillo/VL.Harmony) - Library for working with musical concepts
@@ -139,11 +138,12 @@ Feel free to contribute to this list!
 * [VL.Alembic](https://github.com/torinos-yt/VL.Alembic) - A plugin to read .abc Alembic files.
 * [VL.Assimp](https://github.com/texone/VL.Assimp) - An alternative 3d model loader for Stride
 * [VL.IO.PLY](https://github.com/vvvv/VL.IO.PLY) - Provides support to read .ply files in VL
+* [VL.PDF](https://github.com/eqbic/VL.PDF) - *todo*
 * [VL.Rhino.3dm](https://github.com/wolfmoritzcramer/VL.Rhino.3dm) - A plugin to simplify the process of importing Rhinoceros 3D files
+* [VL.SRT](https://github.com/sebllll/VL.SRT) - Nodes to deal with subtitles
 * [VL.OpenEXR](https://github.com/torinos-yt/VL.OpenEXR) - A simple OpenEXR and .hdr image format loader
 
 #### Databases
-* [VL.DBSCAN](https://github.com/sebescudie/VL.DBSCAN) - A simple implementation of the DBSCAN .NET library
 * [VL.InfluxDB](https://github.com/sebescudie/VL.InfluxDB) - Nodes that allow to connect and write to an InfluxDB database
 * [VL.IO.Redis](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.IO.Redis) - A Redis client for accessing Redis databases
 
@@ -190,6 +190,7 @@ Feel free to contribute to this list!
 
 ### Machine Learning
 * [VL.2D.DollarQ](https://github.com/vvvv/VL.2D.DollarQ) - Gesture regognition library
+* [VL.Accord](https://github.com/cnisidis/VL.Accord) - *todo*
 * [VL.DlibDotNet](https://github.com/m-box-de/VL.DlibDotNet) - Some parts of DlibDotNet library ported to VL
 * [VL.OpenAI](https://github.com/schnellebuntebilder/VL.OpenAI) - Nodes for the OpenAI API
 * [VL.PythonNET](https://discourse.vvvv.org/t/vl-pythonnet-and-ai-worflows-like-streamdiffusion-in-vvvv-gamma/22596) - Python interpreter for vvvv and base for many AI tools and workflows
@@ -205,11 +206,10 @@ Feel free to contribute to this list!
 * [VL.WinFormsUtils](https://github.com/domjancik/VL.WinFormsUtils) -  Nodes to expose useful functions of the Windows Forms API 
 
 ### Misc
+* [VL.DBSCAN](https://github.com/sebescudie/VL.DBSCAN) - A simple implementation of the DBSCAN .NET library
 * [VL.OpenWeather](https://github.com/sebescudie/VL.OpenWeather) - Wrapper for some APIs from OpenWeather
-* [VL.PDF](https://github.com/eqbic/VL.PDF) - *todo*
 * [VL.Postman](https://github.com/sebescudie/VL.Postman) - Plugin to turn Postman collection exports into ready to use nodes
 * [VL.QRCode](https://github.com/vvvv/VL.QRCode) - QRCode encoder and decoder
-* [VL.SRT](https://github.com/sebllll/VL.SRT) - Nodes to deal with subtitles
 * [VL.StringExtensions](https://github.com/sebescudie/VL.StringExtensions) - Nodes for extended methods when working with strings
 * [VL.Telegram](https://github.com/sebescudie/VL.Telegram) - Wrapper of the Telegram.Bot lib
  
