@@ -1,5 +1,6 @@
 # Awesome VL
-A collection of libraries, resources and examples for vvvv and VL.
+A collection of libraries, resources and examples for vvvv and VL. 
+Feel free to contribute to this list!
 
 ## Official Channels
 
@@ -72,18 +73,19 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.RogueSharp](https://github.com/TobyKLight/VL.RogueSharp) - A library for game development of roguelikes, including methods for pathfinding and field of view
 
 ### Control
-* [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition
 * [VL.AutomataUI](https://github.com/wirmachenbunt/AutomataUI.NET) - A finite statemachine editor for .NET
+* [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition
 * [VL.LoopTool](https://github.com/vjgegenlicht/VL.LoopTool) -  A small toolset to create video loops and record them
 
 ### Computer Vision
-* [VL.OpenCV](https://github.com/vvvv/VL.OpenCV) - A VL wrapper for OpenCVSharp
-* [VL.MediaPipe](https://github.com/vvvv/VL.MediaPipe) - Camera tracking, image segmentation and object detection from a video stream
 * [VL.Augmenta](https://github.com/vvvv/VL.Augmenta) - Support for Augmenta tracking technology
+* [VL.MediaPipe](https://github.com/vvvv/VL.MediaPipe) - Camera tracking, image segmentation and object detection from a video stream
+* [VL.OpenCV](https://github.com/vvvv/VL.OpenCV) - A VL wrapper for OpenCVSharp
 
 ### User Interfaces
-* [VL.ImGui](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui) - A node set around ImGui to render user interfaces in Skia and Stride
 * [VL.Elementa](https://github.com/natan-sinigaglia/VL.Elementa) -  Collection of widgets for easy UI prototyping
+* [VL.ImGui](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui) - A node set around ImGui to render user interfaces in Skia and Stride
+* [VL.ImGui.Extensions](https://github.com/lasalillo/VL.ImGui.Extensions) - Collection of ImGui widgets & editors
 
 ### Audio
 * [VL.Audio](https://github.com/vvvv/VL.Audio) - Record, play, filter, synthesize and analyse sound
@@ -105,13 +107,6 @@ A collection of libraries, resources and examples for vvvv and VL.
 
 ### IO
 
-#### File Formats
-* [VL.Alembic](https://github.com/torinos-yt/VL.Alembic) - A plugin to read .abc Alembic files.
-* [VL.Assimp](https://github.com/texone/VL.Assimp) - An alternative 3d model loader for Stride
-* [VL.IO.PLY](https://github.com/vvvv/VL.IO.PLY) - Provides support to read .ply files in VL
-* [VL.Rhino.3dm](https://github.com/wolfmoritzcramer/VL.Rhino.3dm) - A plugin to simplify the process of importing Rhinoceros 3D files
-* [VL.OpenEXR](https://github.com/torinos-yt/VL.OpenEXR) - A simple OpenEXR and .hdr image format loader
-
 #### Protocols
 * [VL.BlueIOT](https://github.com/vvvv/VL.BlueIOT) - Support for the BlueIOT open API
 * [VL.IO.AbletonLink](https://github.com/SpaceMusicZH/VL.IO.AbletonLink) -  Wrapper for Ableton Link
@@ -129,10 +124,23 @@ A collection of libraries, resources and examples for vvvv and VL.
 * [VL.IO.TCP](https://github.com/vvvv/VL.IO.TCP) - Set of nodes to use TCP
 * [VL.IO.TUIO](https://github.com/vvvv/VL.IO.TUIO) - Provides support for the TUIO protocol
 * [VL.IO.WebSocket](https://github.com/vvvv/VL.IO.WebSocket) - Set of nodes to use websocket client and server
+* [VL.IO.Net.Email](https://github.com/ravazquez/VL.IO.Net.Email) - Nodes to do basic email tasks
 * [VL.PJLink](https://github.com/sebllll/VL.PJLink) - Nodes to connect and control projectors via the PJLink protocol
 * [VL.SimpleHTTP](https://github.com/sebescudie/VL.SimpleHTTP) - A super-simple set of nodes to perform basic HTTP queries
 * [VL.TUIO](https://github.com/InteractiveScapeGmbH/VL.TUIO) - Alternative TUIO library based on TUIO.Net
 * [VL.TUIO.HDE](https://github.com/vvvv/VL.TUIO.HDE) - TUIO simulator and monitor
+
+#### File Formats
+* [VL.Alembic](https://github.com/torinos-yt/VL.Alembic) - A plugin to read .abc Alembic files.
+* [VL.Assimp](https://github.com/texone/VL.Assimp) - An alternative 3d model loader for Stride
+* [VL.IO.PLY](https://github.com/vvvv/VL.IO.PLY) - Provides support to read .ply files in VL
+* [VL.Rhino.3dm](https://github.com/wolfmoritzcramer/VL.Rhino.3dm) - A plugin to simplify the process of importing Rhinoceros 3D files
+* [VL.OpenEXR](https://github.com/torinos-yt/VL.OpenEXR) - A simple OpenEXR and .hdr image format loader
+
+#### Databases
+* [VL.DBSCAN](https://github.com/sebescudie/VL.DBSCAN) - A simple implementation of the DBSCAN .NET library
+* [VL.InfluxDB](https://github.com/sebescudie/VL.InfluxDB) - Nodes that allow to connect and write to an InfluxDB database
+* [VL.IO.Redis](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.IO.Redis) - A Redis client for accessing Redis databases
 
 ### Devices
 
