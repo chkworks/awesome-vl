@@ -58,15 +58,25 @@ Feel free to contribute to this list!
 * [VL.PolyTools](https://github.com/TobyKLight/VL.PolyTools) -  Tools for working with Polygons and Polypaths
 * [VL.Radiosity](https://github.com/michael-burk/VL.Radiosity) - 2D Radiosity Shader
 * [VL.ShadowCatcher](https://github.com/torinos-yt/VL.ShadowCatcher) - *todo*
+
+#### Video
+* [VL.Video](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Video) - Set of nodes for video capture and playback
+* [VL.HapPlayer](https://www.nuget.org/packages/VL.HapPlayer) - HAP GPU Video Playback Plugin (*requires a license*)
  
 #### Text
 * [VL.Stride.Text3d](https://github.com/bj-rn/VL.Stride.Text3d) - Set of nodes to create and render (extruded) 3D text 
 * [VL.RichTextKit](https://github.com/sebllll/VL.RichTextKit) - Wrapper for rich text in VL
 * [VL.BMFont](https://github.com/kopffarben/VL.BMFont) - *todo*
 
-### Video
-* [VL.Video](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Video) - Set of nodes for video capture and playback
-* [VL.HapPlayer](https://www.nuget.org/packages/VL.HapPlayer) - HAP GPU Video Playback Plugin (*requires a license*)
+### Control
+* [VL.AutomataUI](https://github.com/wirmachenbunt/AutomataUI.NET) - A finite statemachine editor for .NET
+* [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition
+* [VL.LoopTool](https://github.com/vjgegenlicht/VL.LoopTool) -  A small toolset to create video loops and record them
+
+### User Interfaces
+* [VL.Elementa](https://github.com/natan-sinigaglia/VL.Elementa) -  Collection of widgets for easy UI prototyping
+* [VL.ImGui](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui) - A node set around ImGui to render user interfaces in Skia and Stride
+* [VL.ImGui.Extensions](https://github.com/lasalillo/VL.ImGui.Extensions) - Collection of ImGui widgets & editors
 
 ### Math & Algorithms
 * [VL.FastNoise](https://github.com/artrevinho/VL.FastNoise) -  Noise Generator in VL
@@ -74,21 +84,6 @@ Feel free to contribute to this list!
 * [VL.Interpolator](https://github.com/lasalillo/VL.Interpolator) - Nodes to interpolate any kind of type
 * [VL.SmallestCircle](https://github.com/schnellebuntebilder/VL.SmallestCircle) -  Calculate the smallest enclosing circle for a set of 2D points
 * [VL.RogueSharp](https://github.com/TobyKLight/VL.RogueSharp) - A library for game development of roguelikes, including methods for pathfinding and field of view
-
-### Control
-* [VL.AutomataUI](https://github.com/wirmachenbunt/AutomataUI.NET) - A finite statemachine editor for .NET
-* [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition
-* [VL.LoopTool](https://github.com/vjgegenlicht/VL.LoopTool) -  A small toolset to create video loops and record them
-
-### Computer Vision
-* [VL.Augmenta](https://github.com/vvvv/VL.Augmenta) - Support for Augmenta tracking technology
-* [VL.MediaPipe](https://github.com/vvvv/VL.MediaPipe) - Camera tracking, image segmentation and object detection from a video stream
-* [VL.OpenCV](https://github.com/vvvv/VL.OpenCV) - A VL wrapper for OpenCVSharp
-
-### User Interfaces
-* [VL.Elementa](https://github.com/natan-sinigaglia/VL.Elementa) -  Collection of widgets for easy UI prototyping
-* [VL.ImGui](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui) - A node set around ImGui to render user interfaces in Skia and Stride
-* [VL.ImGui.Extensions](https://github.com/lasalillo/VL.ImGui.Extensions) - Collection of ImGui widgets & editors
 
 ### Audio
 * [VL.Audio](https://github.com/vvvv/VL.Audio) - Record, play, filter, synthesize and analyse sound
@@ -102,6 +97,11 @@ Feel free to contribute to this list!
 * [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities
 * [VL.Music](https://github.com/natan-sinigaglia/VL.Music) - Collection of music related tools
 * [VL.Harmony](https://github.com/lasalillo/VL.Harmony) - Library for working with musical concepts
+
+### Computer Vision
+* [VL.Augmenta](https://github.com/vvvv/VL.Augmenta) - Support for Augmenta tracking technology
+* [VL.MediaPipe](https://github.com/vvvv/VL.MediaPipe) - Camera tracking, image segmentation and object detection from a video stream
+* [VL.OpenCV](https://github.com/vvvv/VL.OpenCV) - A VL wrapper for OpenCVSharp
 
 ### Projection Mapping
 * [VL.BadMapper](https://github.com/vvvv/VL.BadMapper) - Collection of tools for convenient manual blending (softedge) and warping (homography, bezier)
