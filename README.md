@@ -27,8 +27,6 @@ Feel free to contribute to this list!
 * [Kairos Research Lab on OpenCollective](https://opencollective.com/the-fuse-lab) - Sponsoring page for the VL.Kairos library.
 * [chk on Ko-Fi](https://ko-fi.com/chk) - Sponsoring page for chk and VL.TheBigBang.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T3I9XX6)
-
 ## Libraries
 
 ### General
