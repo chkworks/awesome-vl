@@ -9,6 +9,7 @@ Feel free to contribute to this list!
 * [visualprogramming.net](https://visualprogramming.net) - The official website for vvvv gamma
 * [vvvv.org](https://vvvv.org) - The old website for vvvv beta
 * [Forum](https://discourse.vvvv.org) - The official forum
+* [GitHub](https://github.com/vvvv) - The official GitHub page
 * [vvvvTV](https://www.youtube.com/@vvvvTv42) - The official YouTube channel
 * [The Gray Book](https://thegraybook.vvvv.org) - The official documentation
 * [The Gray Book Repository](https://github.com/vvvv/The-Gray-Book) - The repository for the official documentation
