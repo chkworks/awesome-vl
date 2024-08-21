@@ -150,12 +150,13 @@ Feel free to contribute to this list!
 ### Devices
 
 #### Input
+* [VL.Devices.IDS](https://github.com/vvvv/VL.Devices.IDS - Support for uEye and uEye+ industrial cameras by IDS Imaging
+* [VL.Devices.SICK](https://github.com/sebescudie/VL.Devices.SICK) - A plugin to interact with SICK lidar scanners
 * [VL.Devices.SpaceMouse](https://github.com/vvvv/VL.Devices.SpaceMouse) - A package for using the SpaceMouse by 3dConnexion
 * [VL.Devices.SpaceMouseHID](https://github.com/bj-rn/VL.Devices.SpaceMouseHID) - Use 3DConnexion SpaceMice in via HID instead of their driver
 * [VL.Devices.StreamDeck](https://github.com/mhusinsky/VL.Devices.StreamDeck) - A package for using Elgato StreamDeck button displays
 * [VL.Devices.TheEyeTribe](https://github.com/vvvv/VL.Devices.TheEyeTribe) - Set of nodes to use the eye tracker by TheEyeTribe
 * [VL.Devices.WinTab](https://github.com/vvvv/VL.Devices.WinTab) - A set of VL nodes for using WinTab devices
-* [VL.Devices.SICK](https://github.com/sebescudie/VL.Devices.SICK) - A plugin to interact with SICK lidar scanners
 * [VL.GameController](https://github.com/heavy-d/VL.GameController/) - A library to support SDL GameControllers
 * [VL.IO.MouseKeyGlobal](https://github.com/bj-rn/VL.IO.MouseKeyGlobal) - Global mouse and keyboard hook
 * [VL.IO.OpenVR](https://github.com/bj-rn/VL.IO.OpenVR) - Wrapper for Valve's OpenVR that enables the use of Vive trackers without a HMD
