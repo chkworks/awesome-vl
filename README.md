@@ -150,7 +150,6 @@ Feel free to contribute to this list!
 ### Devices
 
 #### Input
-* [VL.Devices.IDS](https://github.com/vvvv/VL.Devices.IDS - Support for uEye and uEye+ industrial cameras by IDS Imaging
 * [VL.Devices.SICK](https://github.com/sebescudie/VL.Devices.SICK) - A plugin to interact with SICK lidar scanners
 * [VL.Devices.SpaceMouse](https://github.com/vvvv/VL.Devices.SpaceMouse) - A package for using the SpaceMouse by 3dConnexion
 * [VL.Devices.SpaceMouseHID](https://github.com/bj-rn/VL.Devices.SpaceMouseHID) - Use 3DConnexion SpaceMice in via HID instead of their driver
@@ -172,7 +171,7 @@ Feel free to contribute to this list!
 * [VL.Devices.AzureKinect](https://github.com/vvvv/VL.Devices.AzureKinect) - A package for using Azure Kinect depth cameras by Microsoft
 * [VL.Devices.AzureKinect.Body](https://github.com/vvvv/VL.Devices.AzureKinect.Body) - A package for using Azure Kinect body tracking
 * [VL.Devices.DigiCamControl](https://github.com/vvvv/VL.Devices.DigiCamControl) - A package for remote controlling DSLR cameras
-* [VL.Devices.IDS](https://github.com/vvvv/VL.Devices.IDS) - Support for uEye and uEye+ industrial cameras
+* [VL.Devices.IDS](https://github.com/vvvv/VL.Devices.IDS) - Support for uEye and uEye+ industrial cameras by IDS Imaging
 * [VL.Devices.Kinect](https://github.com/vvvv/VL.Devices.Kinect) - A package for using Kinect and Kinect XBOX 360 by Microsoft
 * [VL.Devices.Kinect2](https://github.com/vvvv/VL.Devices.Kinect2) - A package for using Kinect2 depth cameras by Microsoft
 * [VL.Devices.LeapOrion](https://github.com/vvvv/VL.Devices.LeapOrion) - A package for using the Motion Controller by Ultraleap, using the Orion SDK
