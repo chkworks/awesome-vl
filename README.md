@@ -114,7 +114,6 @@ Feel free to contribute to this list!
 * [VL.BlueIOT](https://github.com/vvvv/VL.BlueIOT) - Support for the BlueIOT open API
 * [VL.IO.AbletonLink](https://github.com/SpaceMusicZH/VL.IO.AbletonLink) -  Wrapper for Ableton Link
 * [VL.IO.ArtNet](https://github.com/vvvv/VL.IO.ArtNet) - Support for sending and receiving Art-Net
-* [VL.IO.HTTP.WebServer](https://github.com/vvvv/VL.IO.HTTP.WebServer) - Set of nodes to run a webserver
 * [VL.IO.M2MQTT](https://github.com/vvvv/VL.IO.M2MQTT) - An MQTT client for accessing an MQTT broker
 * [VL.IO.Midi](https://github.com/vvvv/VL.IO.Midi) -  Midi nodes and tools
 * [VL.IO.MQTTnet](https://github.com/mhusinsky/VL.IO.MQTTnet) - MQTT nodes, based on MQTTnet
@@ -129,9 +128,13 @@ Feel free to contribute to this list!
 * [VL.IO.WebSocket](https://github.com/vvvv/VL.IO.WebSocket) - Set of nodes to use websocket client and server
 * [VL.IO.Net.Email](https://github.com/ravazquez/VL.IO.Net.Email) - Nodes to do basic email tasks
 * [VL.PJLink](https://github.com/sebllll/VL.PJLink) - Nodes to connect and control projectors via the PJLink protocol
-* [VL.SimpleHTTP](https://github.com/sebescudie/VL.SimpleHTTP) - A super-simple set of nodes to perform basic HTTP queries
 * [VL.TUIO](https://github.com/InteractiveScapeGmbH/VL.TUIO) - Alternative TUIO library based on TUIO.Net
 * [VL.TUIO.HDE](https://github.com/vvvv/VL.TUIO.HDE) - TUIO simulator and monitor
+
+#### HTTP
+* [VL.IO.HTTP.WebServer](https://github.com/vvvv/VL.IO.HTTP.WebServer) - Set of nodes to run a webserver
+* [VL.SimpleHTTP](https://github.com/sebescudie/VL.SimpleHTTP) - A super-simple set of nodes to perform basic HTTP queries
+* [VL.TorSharp](https://github.com/sebescudie/VL.TorSharp) - Allows to make HTTP requests via the TOR network
 
 #### File Formats
 * [VL.Alembic](https://github.com/torinos-yt/VL.Alembic) - A plugin to read .abc Alembic files.
