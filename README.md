@@ -236,7 +236,7 @@ Feel free to contribute to this list!
 ### Examples
 * [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about implementing various design patterns taken from the book "Head First Design Patterns".
 * [VL.HeadFirstDesignPatterns](https://github.com/sebescudie/VL.HeadFirstDesignPatterns) - Repository containing examples of design patterns taken from the book "Head First Design Patterns". 
-* [TextureFX+](https://discourse.vvvv.org/t/texture-fx-vl-addons/21631) - A forum thread about TextureFX+, a collection of texture generators and filters gathered by the community.
+* [TextureFX+](https://discourse.vvvv.org/t/texture-fx-vl-addons/21631) - A forum thread about TextureFX+, a collection of texture generators and filters gathered by the community, available in VL.Addons
 * [Nodevember 2022](https://discourse.vvvv.org/t/vl-examples-patches-playground01/21166) - Example patches by CeeYaa during Nodevember 2022.
 * [Genuary 2023](https://github.com/CeeYaa/Genuary2023) - Example patches by CeeYaa during Genuary 2023.
 * [VL.Snake](https://github.com/ravazquez/VL.Snake) - A VL clone of the game Snake
