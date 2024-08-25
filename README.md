@@ -243,6 +243,7 @@ Feel free to contribute to this list!
 * [VL.Breakout](https://github.com/ravazquez/VL.Breakout) - A VL clone of the game Breakout
 * [VL.DemoLib](https://github.com/vvvv/VL.DemoLib) - A demo library showing how to write nodes in C#
 * [Kartinki](https://github.com/kidhop/Kartinki) - A game for children - your draw with words, then color with numbers
+* [VL.LED-Controller](https://gitlab.com/phlegma/vl.led-controller) - Work in progress project to control lights from an ImGui interface
 
 ### Online Courses
 * [The Stride Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-stride-bundle/) - 5 intermediate courses focusing on VL.Stride
