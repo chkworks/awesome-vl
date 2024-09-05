@@ -57,6 +57,7 @@ Feel free to contribute to this list!
 * [VL.PolyTools](https://github.com/TobyKLight/VL.PolyTools) -  Tools for working with Polygons and Polypaths
 * [VL.Radiosity](https://github.com/michael-burk/VL.Radiosity) - 2D Radiosity Shader
 * [VL.ShadowCatcher](https://github.com/torinos-yt/VL.ShadowCatcher) - *todo*
+* [VL.Stride.BezierPatch](https://github.com/antokhio/VL.Stride.BezierPatch) - Set of nodes to create bezier surfaces
 
 #### Video
 * [VL.Video](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.Video) - Set of nodes for video capture and playback
