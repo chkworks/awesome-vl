@@ -93,9 +93,10 @@ Feel free to contribute to this list!
 * [VL.SCSynth](https://github.com/cnisidis/VL.SCSynth) - SuperCollider Server Library for VL
 
 #### Music Utils
+* [VL.Harmony](https://github.com/lasalillo/VL.Harmony) - Library for working with musical concepts
 * [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities
 * [VL.Music](https://github.com/natan-sinigaglia/VL.Music) - Collection of music related tools
-* [VL.Harmony](https://github.com/lasalillo/VL.Harmony) - Library for working with musical concepts
+* [VL.Orpheus](https://github.com/cnisidis/VL.Orpheus) - Collection of tools for music theory and music concepts
 
 ### Computer Vision
 * [VL.Augmenta](https://github.com/vvvv/VL.Augmenta) - Support for Augmenta tracking technology
