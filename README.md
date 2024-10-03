@@ -155,6 +155,7 @@ Feel free to contribute to this list!
 ### Devices
 
 #### Input
+* [VL.Devices.RPLidar](https://github.com/vvvv/VL.Devices.RPLidar) - Support for the Slamtec RPLidar A-Series
 * [VL.Devices.SICK](https://github.com/sebescudie/VL.Devices.SICK) - A plugin to interact with SICK lidar scanners
 * [VL.Devices.SpaceMouse](https://github.com/vvvv/VL.Devices.SpaceMouse) - A package for using the SpaceMouse by 3dConnexion
 * [VL.Devices.SpaceMouseHID](https://github.com/bj-rn/VL.Devices.SpaceMouseHID) - Use 3DConnexion SpaceMice in via HID instead of their driver
