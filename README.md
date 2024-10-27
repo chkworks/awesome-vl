@@ -215,6 +215,7 @@ Feel free to contribute to this list!
 
 ### Misc
 * [VL.DBSCAN](https://github.com/sebescudie/VL.DBSCAN) - A simple implementation of the DBSCAN .NET library
+* [VL.Here](https://github.com/sebescudie/VL.Here) -  A set of nodes to perform geocoding stuff in the VL programming language
 * [VL.OpenWeather](https://github.com/sebescudie/VL.OpenWeather) - Wrapper for some APIs from OpenWeather
 * [VL.Postman](https://github.com/sebescudie/VL.Postman) - Plugin to turn Postman collection exports into ready to use nodes
 * [VL.QRCode](https://github.com/vvvv/VL.QRCode) - QRCode encoder and decoder
