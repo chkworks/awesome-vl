@@ -70,6 +70,8 @@ Feel free to contribute to this list!
 
 ### Control
 * [VL.AutomataUI](https://github.com/wirmachenbunt/AutomataUI.NET) - A finite statemachine editor for .NET
+* [VL.Interpolator](https://github.com/lasalillo/VL.Interpolator) -  Powerful binary search set of nodes to interpolate any kind of type
+* [VL.Interpolator.Addons](https://github.com/lasalillo/VL.Interpolator.Addons) -  Timeliner & addons around VL.Interpolator 
 * [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition
 * [VL.LoopTool](https://github.com/vjgegenlicht/VL.LoopTool) -  A small toolset to create video loops and record them
 
@@ -81,7 +83,6 @@ Feel free to contribute to this list!
 ### Math & Algorithms
 * [VL.FastNoise](https://github.com/artrevinho/VL.FastNoise) -  Noise Generator in VL
 * [VL.FastNoiseLite](https://github.com/bj-rn/VL.FastNoiseLite) - Noise generation library with a large selection of noise algorithms
-* [VL.Interpolator](https://github.com/lasalillo/VL.Interpolator) - Nodes to interpolate any kind of type
 * [VL.SmallestCircle](https://github.com/schnellebuntebilder/VL.SmallestCircle) -  Calculate the smallest enclosing circle for a set of 2D points
 * [VL.RogueSharp](https://github.com/TobyKLight/VL.RogueSharp) - A library for game development of roguelikes, including methods for pathfinding and field of view
 
@@ -118,6 +119,7 @@ Feel free to contribute to this list!
 * [VL.IO.ArtNet](https://github.com/vvvv/VL.IO.ArtNet) - Support for sending and receiving Art-Net
 * [VL.IO.M2MQTT](https://github.com/vvvv/VL.IO.M2MQTT) - An MQTT client for accessing an MQTT broker
 * [VL.IO.Midi](https://github.com/vvvv/VL.IO.Midi) -  Midi nodes and tools
+* [VL.IO.mDNS](https://github.com/mhusinsky/VL.IO.mDNS) - Multicast DNS (mDNS) nodes for VL
 * [VL.IO.MQTTnet](https://github.com/mhusinsky/VL.IO.MQTTnet) - MQTT nodes, based on MQTTnet
 * [VL.IO.NDI](https://github.com/vvvv/VL.IO.NDI) - Provides support for NDI®
 * [VL.IO.NetMQ](https://github.com/vvvv/VL.IO.NetMQ) - Set of nodes to work with NetMQ aka ZeroMQ
