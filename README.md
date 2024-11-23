@@ -207,7 +207,8 @@ Feel free to contribute to this list!
 * [VL.Wekinator](https://github.com/sebescudie/VL.Wekinator) - A library to communicate with Wekinator via OSC
 
 ### System & Extensions
-* [VL.Benchmarks](https://github.com/tebjan/VL.Benchmarks) - A performance testing suite for VL
+* [VL.Benchmarks](https://github.com/tebjan/VL.Benchmarks) - A performance testing suite for vvvv
+* [VL.Bookmarks](https://github.com/sebescudie/VL.Bookmarks) - A bookmark system for vvvv
 * [VL.DebugInfo.HDE](https://github.com/sebescudie/VL.DebugInfo.HDE) - An editor extension that displays relevant debug information
 * [VL.GlassWindow](https://github.com/torinos-yt/VL.GlassWindow) - Makes the background of the rendering windows transparent
 * [VL.HardwareMonitor](https://github.com/vvvv/VL.HardwareMonitor) - Nodes to retrieve various metrics from your computer hardware
