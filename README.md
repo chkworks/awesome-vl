@@ -5,7 +5,6 @@ Feel free to contribute to this list!
 ## Official Channels
 
 ### vvvv Group
-
 * [visualprogramming.net](https://visualprogramming.net) - The official website for vvvv gamma
 * [vvvv.org](https://vvvv.org) - The old website for vvvv beta
 * [Forum](https://discourse.vvvv.org) - The official forum
@@ -16,7 +15,6 @@ Feel free to contribute to this list!
 * [VL-Language](https://github.com/vvvv/VL-Language) -  The official repo for the design of the VL programming language
 
 ### Community
-
 * [GammaLauncher](https://github.com/sebescudie/GammaLauncher) - A simple launcher for vvvv gamma.
 * [The NODE Institute](https://thenodeinstitute.org/) - Institute for applied creative computation, hosting user meetups, workshops, webinars and online courses for creative coding and media arts.
 * [NODE Forum](https://nodeforum.org/) - A platform for sharing and investigating creative technologies, for artistic research and cultural and political media education.
