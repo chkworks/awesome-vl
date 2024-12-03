@@ -26,7 +26,7 @@ Feel free to contribute to this list!
 * [The Fuse Lab on OpenCollective](https://opencollective.com/the-fuse-lab) - Sponsoring page for the VL.Fuse library.
 * [Kairos Research Lab on OpenCollective](https://opencollective.com/the-fuse-lab) - Sponsoring page for the VL.Kairos library.
 * [chk on Ko-Fi](https://ko-fi.com/chk) - Sponsoring page for the tutorial nuget VL.TheBigBang.
- 
+
 ## Learning
 
 ### Tutorial NuGets
