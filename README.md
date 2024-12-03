@@ -13,10 +13,11 @@ Feel free to contribute to this list!
 * [vvvvTV](https://www.youtube.com/@vvvvTv42) - The official YouTube channel
 * [The Gray Book](https://thegraybook.vvvv.org) - The official documentation
 * [The Gray Book Repository](https://github.com/vvvv/The-Gray-Book) - The repository for the official documentation
-* [VL-Language](https://github.com/vvvv/VL-Language) -  The official repo for the design of the VL programming language 
+* [VL-Language](https://github.com/vvvv/VL-Language) -  The official repo for the design of the VL programming language
 
 ### Community
 
+* [GammaLauncher](https://github.com/sebescudie/GammaLauncher) - A simple launcher for vvvv gamma.
 * [The NODE Institute](https://thenodeinstitute.org/) - Institute for applied creative computation, hosting user meetups, workshops, webinars and online courses for creative coding and media arts.
 * [NODE Forum](https://nodeforum.org/) - A platform for sharing and investigating creative technologies, for artistic research and cultural and political media education.
 * [Stride](stride3d.net/) - The official website of Stride, the open-source game enginge that provides the backend for 3D rendering in vvvv.
@@ -262,7 +263,6 @@ Feel free to contribute to this list!
 ## Other Resources
 
 ### Tools
-* [GammaLauncher](https://github.com/sebescudie/GammaLauncher) - A simple launcher for vvvv gamma.
 * [Material Editors](https://discourse.vvvv.org/t/open-source-material-editor-material-creation-resource-list/19185) - Forum thread about open-source material editors.
 * [MergeVLDocs](https://github.com/vvvv/MergeVLDocs) - A first step towards an easy-to-use visual merge tool
 * [Stride Shader Explorer](https://github.com/tebjan/Stride.ShaderExplorer) - A tool showing the built-in shaders of the Stride game engine and their inheritance hierarchy.
