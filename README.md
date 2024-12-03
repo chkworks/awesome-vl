@@ -233,6 +233,7 @@ Feel free to contribute to this list!
 * [VL.GenerativeGestaltung](https://github.com/phlegma/VL.GenerativeGestaltung) - Sketches from the book "Generative Gestaltung" implemented in vvvv gamma.
 
 ### Tutorial Videos
+* [vvvvTv Season 2](https://youtube.com/playlist?list=PLBTgwgsWWcT8eDfjAg299o7paRqkd2Zdi&feature=shared) - The devvvvs talking about everything they know about vvvv, diving in every episode into a different corner of vvvv to shed some light on it.
 * [Tutorial for Absolute Beginners of VL](https://youtube.com/playlist?list=PL2KeRstDQVRRVnzCHEambwAI4yWmpIF-p&si=Jn55GElh-JUdL-0A) - A tutorial series of 7 videos by chk, covering the most basic nodes and techniques.
 * [Intermediate Tutorials for vvvv gamma](https://youtube.com/playlist?list=PLEncasrnvr2bkPb0QKdU1DrDs4Hd_Jr0V&si=u3s4YfLRyV1Sl_R3) - Tutorials by TobyK, focusing on advanced topics about development and architecture.
 * [vvvv gamma graphics tutorials](https://youtube.com/playlist?list=PLK3HDkvkLePRQpgCIb8dL9CRSYOTmNbdI&si=lzo2KiwN2iz5HaB1) - Tutorials focusing on techniques on how to generate cool graphics by Takuma Nakata.
