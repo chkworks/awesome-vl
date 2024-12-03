@@ -27,6 +27,40 @@ Feel free to contribute to this list!
 * [The Fuse Lab on OpenCollective](https://opencollective.com/the-fuse-lab) - Sponsoring page for the VL.Fuse library.
 * [Kairos Research Lab on OpenCollective](https://opencollective.com/the-fuse-lab) - Sponsoring page for the VL.Kairos library.
 * [chk on Ko-Fi](https://ko-fi.com/chk) - Sponsoring page for the tutorial nuget VL.TheBigBang.
+ 
+## Learning
+
+### Tutorial NuGets
+* [VL.TheBigBang](https://github.com/chkworks/VL.TheBigBang) - A tutorial series of 42 chapters, covering all nodes and techniques to get you started.
+* [VL.ExtendedTutorials](https://github.com/TobyKLight/VL.ExtendedTutorials) -  Extended tutorial help patches, covering common questions as learners move from beginner towards intermediate.
+* [VL.GenerativeGestaltung](https://github.com/phlegma/VL.GenerativeGestaltung) - Sketches from the book "Generative Gestaltung" implemented in vvvv gamma.
+
+### Tutorial Videos
+* [vvvvTv Season 2](https://youtube.com/playlist?list=PLBTgwgsWWcT8eDfjAg299o7paRqkd2Zdi&feature=shared) - Everything the devvvvs know about vvvv.
+* [Tutorial for Absolute Beginners of VL](https://youtube.com/playlist?list=PL2KeRstDQVRRVnzCHEambwAI4yWmpIF-p&si=Jn55GElh-JUdL-0A) - A tutorial series of 7 videos by chk, covering the most basic nodes and techniques.
+* [Intermediate Tutorials for vvvv gamma](https://youtube.com/playlist?list=PLEncasrnvr2bkPb0QKdU1DrDs4Hd_Jr0V&si=u3s4YfLRyV1Sl_R3) - Tutorials by TobyK, focusing on advanced topics about development and architecture.
+* [vvvv gamma graphics tutorials](https://youtube.com/playlist?list=PLK3HDkvkLePRQpgCIb8dL9CRSYOTmNbdI&si=lzo2KiwN2iz5HaB1) - Tutorials focusing on techniques on how to generate cool graphics by Takuma Nakata.
+* [NODE20 Workshops](https://vimeo.com/showcase/node20workshops) - 30 workshops, 90 hours of learning, recorded at NODE20 Forum for Digital Arts in October 2020.
+* [Model Runtime Editor Design Pattern](https://vvvv.org/contribution/model-runtime-editor-design-pattern) - A convenient way to structure your software and build a flexible app architecture.
+* [Midweek Patch Therapy](https://www.youtube.com/@midweekpatchtherapy3983) - Highlights from the weekly Midweek Patch Therapy meetings, created and hosted by domj.
+
+### Examples
+* [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about implementing various design patterns taken from the book "Head First Design Patterns".
+* [VL.HeadFirstDesignPatterns](https://github.com/sebescudie/VL.HeadFirstDesignPatterns) - Repository containing examples of design patterns taken from the book "Head First Design Patterns". 
+* [TextureFX+](https://discourse.vvvv.org/t/texture-fx-vl-addons/21631) - A forum thread about TextureFX+, a collection of texture generators and filters gathered by the community, available in VL.Addons
+* [Nodevember 2022](https://discourse.vvvv.org/t/vl-examples-patches-playground01/21166) - Example patches by CeeYaa during Nodevember 2022.
+* [Genuary 2023](https://github.com/CeeYaa/Genuary2023) - Example patches by CeeYaa during Genuary 2023.
+* [VL.Snake](https://github.com/ravazquez/VL.Snake) - A VL clone of the game Snake
+* [VL.Breakout](https://github.com/ravazquez/VL.Breakout) - A VL clone of the game Breakout
+* [VL.DemoLib](https://github.com/vvvv/VL.DemoLib) - A demo library showing how to write nodes in C#
+* [Kartinki](https://github.com/kidhop/Kartinki) - A game for children - your draw with words, then color with numbers
+* [VL.LED-Controller](https://gitlab.com/phlegma/vl.led-controller) - Work in progress project to control lights from an ImGui interface
+
+### Online Courses
+* [Beginner Class Winter 24/25](https://thenodeinstitute.org/vvvv-education-winter-2024-25/) - 12 sessions to get you started with vvvv
+* [The Stride Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-stride-bundle/) - 5 intermediate courses focusing on VL.Stride
+* [The Fuse Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-fuse-bundle/) - 8 intermediate courses focusing on VL.Fuse
+* [Game Logic](https://thenodeinstitute.org/courses/ss23-vvvv-game-logic/) - A workshop about creating Flappy Bird in VL
 
 ## Libraries
 
@@ -224,39 +258,6 @@ Feel free to contribute to this list!
 * [VL.QRCode](https://github.com/vvvv/VL.QRCode) - QRCode encoder and decoder
 * [VL.StringExtensions](https://github.com/sebescudie/VL.StringExtensions) - Nodes for extended methods when working with strings
 * [VL.Telegram](https://github.com/sebescudie/VL.Telegram) - Wrapper of the Telegram.Bot lib
- 
-## Learning
-
-### Tutorial NuGets
-* [VL.TheBigBang](https://github.com/chkworks/VL.TheBigBang) - A tutorial series of 42 chapters, covering all nodes and techniques to get you started.
-* [VL.ExtendedTutorials](https://github.com/TobyKLight/VL.ExtendedTutorials) -  Extended tutorial help patches, covering common questions as learners move from beginner towards intermediate.
-* [VL.GenerativeGestaltung](https://github.com/phlegma/VL.GenerativeGestaltung) - Sketches from the book "Generative Gestaltung" implemented in vvvv gamma.
-
-### Tutorial Videos
-* [vvvvTv Season 2](https://youtube.com/playlist?list=PLBTgwgsWWcT8eDfjAg299o7paRqkd2Zdi&feature=shared) - The devvvvs talking about everything they know about vvvv, diving in every episode into a different corner of vvvv to shed some light on it.
-* [Tutorial for Absolute Beginners of VL](https://youtube.com/playlist?list=PL2KeRstDQVRRVnzCHEambwAI4yWmpIF-p&si=Jn55GElh-JUdL-0A) - A tutorial series of 7 videos by chk, covering the most basic nodes and techniques.
-* [Intermediate Tutorials for vvvv gamma](https://youtube.com/playlist?list=PLEncasrnvr2bkPb0QKdU1DrDs4Hd_Jr0V&si=u3s4YfLRyV1Sl_R3) - Tutorials by TobyK, focusing on advanced topics about development and architecture.
-* [vvvv gamma graphics tutorials](https://youtube.com/playlist?list=PLK3HDkvkLePRQpgCIb8dL9CRSYOTmNbdI&si=lzo2KiwN2iz5HaB1) - Tutorials focusing on techniques on how to generate cool graphics by Takuma Nakata.
-* [NODE20 Workshops](https://vimeo.com/showcase/node20workshops) - 30 workshops, 90 hours of learning, recorded at NODE20 Forum for Digital Arts in October 2020.
-* [Model Runtime Editor Design Pattern](https://vvvv.org/contribution/model-runtime-editor-design-pattern) - A convenient way to structure your software and build a flexible app architecture.
-* [Midweek Patch Therapy](https://www.youtube.com/@midweekpatchtherapy3983) - Highlights from the weekly Midweek Patch Therapy meetings, created and hosted by domj.
-
-### Examples
-* [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about implementing various design patterns taken from the book "Head First Design Patterns".
-* [VL.HeadFirstDesignPatterns](https://github.com/sebescudie/VL.HeadFirstDesignPatterns) - Repository containing examples of design patterns taken from the book "Head First Design Patterns". 
-* [TextureFX+](https://discourse.vvvv.org/t/texture-fx-vl-addons/21631) - A forum thread about TextureFX+, a collection of texture generators and filters gathered by the community, available in VL.Addons
-* [Nodevember 2022](https://discourse.vvvv.org/t/vl-examples-patches-playground01/21166) - Example patches by CeeYaa during Nodevember 2022.
-* [Genuary 2023](https://github.com/CeeYaa/Genuary2023) - Example patches by CeeYaa during Genuary 2023.
-* [VL.Snake](https://github.com/ravazquez/VL.Snake) - A VL clone of the game Snake
-* [VL.Breakout](https://github.com/ravazquez/VL.Breakout) - A VL clone of the game Breakout
-* [VL.DemoLib](https://github.com/vvvv/VL.DemoLib) - A demo library showing how to write nodes in C#
-* [Kartinki](https://github.com/kidhop/Kartinki) - A game for children - your draw with words, then color with numbers
-* [VL.LED-Controller](https://gitlab.com/phlegma/vl.led-controller) - Work in progress project to control lights from an ImGui interface
-
-### Online Courses
-* [The Stride Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-stride-bundle/) - 5 intermediate courses focusing on VL.Stride
-* [The Fuse Bundle](https://thenodeinstitute.org/product/vvvv-intermediates-summer-2024-fuse-bundle/) - 8 intermediate courses focusing on VL.Fuse
-* [Game Logic](https://thenodeinstitute.org/courses/ss23-vvvv-game-logic/) - A workshop about creating Flappy Bird in VL
 
 ## Other Resources
 
