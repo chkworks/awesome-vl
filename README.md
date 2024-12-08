@@ -85,6 +85,7 @@ Feel free to contribute to this list!
 * [VL.Attractors](https://github.com/juanhurle/VL.Attractors) - Attractor library for VL.Fuse
 * [VL.Boids-GPU](https://github.com/torinos-yt/VL.Boids-GPU) - GPU Boids Simulation implemented in VL
 * [VL.Dope](https://github.com/digitalwannabe/VL.Dope) - Deform objects by points and edges
+* [VL.Flex](https://www.nuget.org/packages/VL.Flex) - VL implementation of the Yoga flexbox layouting system by Facebook
 * [VL.Fresnel](https://github.com/artrevinho/VL.Fresnel) - Fresnel Shader for VL.Stride
 * [VL.Fuse.DomainExtensions](https://github.com/torinos-yt/VL.Fuse.DomainExtensions) - *todo*
 * [VL.PolyTools](https://github.com/TobyKLight/VL.PolyTools) -  Tools for working with Polygons and Polypaths
