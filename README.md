@@ -5,9 +5,8 @@ Feel free to contribute to this list!
 ## Official Channels
 
 ### vvvv Group
-* [visualprogramming.net](https://visualprogramming.net) - The official website for vvvv gamma
-* [vvvv.org](https://vvvv.org) - The old website for vvvv beta
-* [Forum](https://discourse.vvvv.org) - The official forum
+* [vvvv.org](https://vvvv.org) - The official website for vvvv
+* [Forum](https://forum.vvvv.org) - The official forum
 * [GitHub](https://github.com/vvvv) - The official GitHub page
 * [vvvvTV](https://www.youtube.com/@vvvvTv42) - The official YouTube channel
 * [The Gray Book](https://thegraybook.vvvv.org) - The official documentation
@@ -44,10 +43,10 @@ Feel free to contribute to this list!
 * [Midweek Patch Therapy](https://www.youtube.com/@midweekpatchtherapy3983) - Highlights from the weekly Midweek Patch Therapy meetings, created and hosted by domj.
 
 ### Examples
-* [Community Coding: Design Patterns](https://discourse.vvvv.org/t/community-coding-design-patterns) - A discussion about implementing various design patterns taken from the book "Head First Design Patterns".
+* [Community Coding: Design Patterns](https://forum.vvvv.org/t/community-coding-design-patterns) - A discussion about implementing various design patterns taken from the book "Head First Design Patterns".
 * [VL.HeadFirstDesignPatterns](https://github.com/sebescudie/VL.HeadFirstDesignPatterns) - Repository containing examples of design patterns taken from the book "Head First Design Patterns". 
-* [TextureFX+](https://discourse.vvvv.org/t/texture-fx-vl-addons/21631) - A forum thread about TextureFX+, a collection of texture generators and filters gathered by the community, available in VL.Addons
-* [Nodevember 2022](https://discourse.vvvv.org/t/vl-examples-patches-playground01/21166) - Example patches by CeeYaa during Nodevember 2022.
+* [TextureFX+](https://forum.vvvv.org/t/texture-fx-vl-addons/21631) - A forum thread about TextureFX+, a collection of texture generators and filters gathered by the community, available in VL.Addons
+* [Nodevember 2022](https://forum.vvvv.org/t/vl-examples-patches-playground01/21166) - Example patches by CeeYaa during Nodevember 2022.
 * [Genuary 2023](https://github.com/CeeYaa/Genuary2023) - Example patches by CeeYaa during Genuary 2023.
 * [VL.Snake](https://github.com/ravazquez/VL.Snake) - A VL clone of the game Snake
 * [VL.Breakout](https://github.com/ravazquez/VL.Breakout) - A VL clone of the game Breakout
@@ -143,7 +142,7 @@ Feel free to contribute to this list!
 * [VL.Mapper](https://github.com/zekeadam/VL.Mapper) - Projection mapping tool for vvvv
 * [VL.VIOSOWarpBlend](https://github.com/vvvv/VL.VIOSOWarpBlend) -  Wrapper for the VIOSO WarpBlend API
 * [VL.ScalableDisplay](https://www.nuget.org/packages/VL.ScalableDisplay) - Support for the auto projector-alignment technology by Scalable Display Solutions (not open-source)
-* [VL.Domemaster](https://discourse.vvvv.org/t/vl-domemaster/20660) - Example to render a scene in the Domemaster format (forum post)
+* [VL.Domemaster](https://forum.vvvv.org/t/vl-domemaster/20660) - Example to render a scene in the Domemaster format (forum post)
 
 ### IO
 
@@ -237,7 +236,7 @@ Feel free to contribute to this list!
 * [VL.Accord](https://github.com/cnisidis/VL.Accord) - *todo*
 * [VL.DlibDotNet](https://github.com/m-box-de/VL.DlibDotNet) - Some parts of DlibDotNet library ported to VL
 * [VL.OpenAI](https://github.com/schnellebuntebilder/VL.OpenAI) - Nodes for the OpenAI API
-* [VL.PythonNET](https://discourse.vvvv.org/t/vl-pythonnet-and-ai-worflows-like-streamdiffusion-in-vvvv-gamma/22596) - Python interpreter for vvvv and base for many AI tools and workflows
+* [VL.PythonNET](https://forum.vvvv.org/t/vl-pythonnet-and-ai-worflows-like-streamdiffusion-in-vvvv-gamma/22596) - Python interpreter for vvvv and base for many AI tools and workflows
 * [VL.Wekinator](https://github.com/sebescudie/VL.Wekinator) - A library to communicate with Wekinator via OSC
 
 ### System & Extensions
@@ -262,7 +261,7 @@ Feel free to contribute to this list!
 ## Other Resources
 
 ### Tools
-* [Material Editors](https://discourse.vvvv.org/t/open-source-material-editor-material-creation-resource-list/19185) - Forum thread about open-source material editors.
+* [Material Editors](https://forum.vvvv.org/t/open-source-material-editor-material-creation-resource-list/19185) - Forum thread about open-source material editors.
 * [MergeVLDocs](https://github.com/vvvv/MergeVLDocs) - A first step towards an easy-to-use visual merge tool
 * [Stride Shader Explorer](https://github.com/tebjan/Stride.ShaderExplorer) - A tool showing the built-in shaders of the Stride game engine and their inheritance hierarchy.
 
