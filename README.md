@@ -242,6 +242,7 @@ Feel free to contribute to this list!
 ### System & Extensions
 * [VL.Benchmarks](https://github.com/tebjan/VL.Benchmarks) - A performance testing suite for vvvv
 * [VL.Bookmarks](https://github.com/sebescudie/VL.Bookmarks) - A bookmark system for vvvv
+* [VL.CredentialManager](https://github.com/bj-rn/VL.CredentialManager) - Manage credentials in VL using Windows Credential Manager
 * [VL.DebugInfo.HDE](https://github.com/sebescudie/VL.DebugInfo.HDE) - An editor extension that displays relevant debug information
 * [VL.GlassWindow](https://github.com/torinos-yt/VL.GlassWindow) - Makes the background of the rendering windows transparent
 * [VL.HardwareMonitor](https://github.com/vvvv/VL.HardwareMonitor) - Nodes to retrieve various metrics from your computer hardware
