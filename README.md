@@ -11,7 +11,7 @@ Feel free to contribute to this list!
 * [vvvvTV](https://www.youtube.com/@vvvvTv42) - The official YouTube channel
 * [The Gray Book](https://thegraybook.vvvv.org) - The official documentation
 * [The Gray Book Repository](https://github.com/vvvv/The-Gray-Book) - The repository for the official documentation
-* [VL-Language](https://github.com/vvvv/VL-Language) -  The official repo for the design of the VL programming language
+* [VL-Language](https://github.com/vvvv/VL-Language) - The official repo for the design of the VL programming language
 
 ### Community
 * [GammaLauncher](https://github.com/sebescudie/GammaLauncher) - A simple launcher for vvvv gamma.
@@ -30,7 +30,7 @@ Feel free to contribute to this list!
 
 ### Tutorial NuGets
 * [VL.TheBigBang](https://github.com/chkworks/VL.TheBigBang) - A tutorial series of 42 chapters, covering all nodes and techniques to get you started.
-* [VL.ExtendedTutorials](https://github.com/TobyKLight/VL.ExtendedTutorials) -  Extended tutorial help patches, covering common questions as learners move from beginner towards intermediate.
+* [VL.ExtendedTutorials](https://github.com/TobyKLight/VL.ExtendedTutorials) - Extended tutorial help patches, covering common questions as learners move from beginner towards intermediate.
 * [VL.GenerativeGestaltung](https://github.com/phlegma/VL.GenerativeGestaltung) - Sketches from the book "Generative Gestaltung" implemented in vvvv gamma.
 
 ### Tutorial Videos
@@ -64,7 +64,7 @@ Feel free to contribute to this list!
 
 ### General
 * [VL.CoreLib](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.CoreLib) - The main vvvv core library
-* [VL.StandardLibs](https://github.com/vvvv/VL.StandardLibs) -  A collection of standard libraries for vvvv
+* [VL.StandardLibs](https://github.com/vvvv/VL.StandardLibs) - A collection of standard libraries for vvvv
 * [VL.Addons](https://github.com/bj-rn/VL.Addons) - A place to gather contributions by the vvvv community, including a great amount of extended texture generators and filters
 * [VL.NewLibrary.Template](https://github.com/vvvv/VL.NewLibrary.Template) - A template for a new VL library
 
@@ -86,10 +86,11 @@ Feel free to contribute to this list!
 * [VL.Dope](https://github.com/digitalwannabe/VL.Dope) - Deform objects by points and edges
 * [VL.Flex](https://www.nuget.org/packages/VL.Flex) - VL implementation of the Yoga flexbox layouting system by Facebook
 * [VL.Fresnel](https://github.com/artrevinho/VL.Fresnel) - Fresnel Shader for VL.Stride
-* [VL.Fuse.DomainExtensions](https://github.com/torinos-yt/VL.Fuse.DomainExtensions) - *todo*
-* [VL.PolyTools](https://github.com/TobyKLight/VL.PolyTools) -  Tools for working with Polygons and Polypaths
+* [VL.Fuse.DomainExtensions](https://github.com/torinos-yt/VL.Fuse.DomainExtensions) - *Description missing*
+* [VL.Fuse.Mixbox](https://github.com/TheFuseLab/VL.Fuse.Mixbox) - Fuse implementation of Mixbox library
+* [VL.PolyTools](https://github.com/TobyKLight/VL.PolyTools) - Tools for working with Polygons and Polypaths
 * [VL.Radiosity](https://github.com/michael-burk/VL.Radiosity) - 2D Radiosity Shader
-* [VL.ShadowCatcher](https://github.com/torinos-yt/VL.ShadowCatcher) - *todo*
+* [VL.ShadowCatcher](https://github.com/torinos-yt/VL.ShadowCatcher) - *Description missing*
 * [VL.Stride.BezierPatch](https://github.com/antokhio/VL.Stride.BezierPatch) - Set of nodes to create bezier surfaces
 
 #### Video
@@ -99,24 +100,24 @@ Feel free to contribute to this list!
 #### Text
 * [VL.Stride.Text3d](https://github.com/bj-rn/VL.Stride.Text3d) - Nodes to render extruded 3D text 
 * [VL.RichTextKit](https://github.com/sebllll/VL.RichTextKit) - Wrapper for rich text rendering
-* [VL.BMFont](https://github.com/kopffarben/VL.BMFont) - *todo*
+* [VL.BMFont](https://github.com/kopffarben/VL.BMFont) - *Description missing*
 
 ### Control
 * [VL.AutomataUI](https://github.com/wirmachenbunt/AutomataUI.NET) - A finite statemachine editor for .NET
-* [VL.Interpolator](https://github.com/lasalillo/VL.Interpolator) -  Powerful binary search set of nodes to interpolate any kind of type
-* [VL.Interpolator.Addons](https://github.com/lasalillo/VL.Interpolator.Addons) -  Timeliner & addons around VL.Interpolator 
+* [VL.Interpolator](https://github.com/lasalillo/VL.Interpolator) - Powerful binary search set of nodes to interpolate any kind of type
+* [VL.Interpolator.Addons](https://github.com/lasalillo/VL.Interpolator.Addons) - Timeliner & addons around VL.Interpolator 
 * [VL.Kairos](https://github.com/KairosResearchLab/Kairos) - A complete framework for data control and composition
-* [VL.LoopTool](https://github.com/vjgegenlicht/VL.LoopTool) -  A small toolset to create video loops and record them
+* [VL.LoopTool](https://github.com/vjgegenlicht/VL.LoopTool) - A small toolset to create video loops and record them
 
 ### User Interfaces
-* [VL.Elementa](https://github.com/natan-sinigaglia/VL.Elementa) -  Collection of widgets for easy UI prototyping
+* [VL.Elementa](https://github.com/natan-sinigaglia/VL.Elementa) - Collection of widgets for easy UI prototyping
 * [VL.ImGui](https://github.com/vvvv/VL.StandardLibs/tree/main/VL.ImGui) - A node set around ImGui to render user interfaces in Skia and Stride
 * [VL.ImGui.Extensions](https://github.com/lasalillo/VL.ImGui.Extensions) - Collection of ImGui widgets & editors
 
 ### Math & Algorithms
-* [VL.FastNoise](https://github.com/artrevinho/VL.FastNoise) -  Noise Generator in VL
+* [VL.FastNoise](https://github.com/artrevinho/VL.FastNoise) - Noise Generator in VL
 * [VL.FastNoiseLite](https://github.com/bj-rn/VL.FastNoiseLite) - Noise generation library with a large selection of noise algorithms
-* [VL.SmallestCircle](https://github.com/schnellebuntebilder/VL.SmallestCircle) -  Calculate the smallest enclosing circle for a set of 2D points
+* [VL.SmallestCircle](https://github.com/schnellebuntebilder/VL.SmallestCircle) - Calculate the smallest enclosing circle for a set of 2D points
 * [VL.RogueSharp](https://github.com/TobyKLight/VL.RogueSharp) - A library for game development of roguelikes, including methods for pathfinding and field of view
 
 ### Audio
@@ -128,7 +129,7 @@ Feel free to contribute to this list!
 
 #### Music Utils
 * [VL.Harmony](https://github.com/lasalillo/VL.Harmony) - Library for working with musical concepts
-* [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) -  Midi utilities
+* [VL.MiDi.Music.Utils](https://github.com/lasalillo/VL.MiDi.Music.Utils) - Midi utilities
 * [VL.Music](https://github.com/natan-sinigaglia/VL.Music) - Collection of music related tools
 * [VL.Orpheus](https://github.com/cnisidis/VL.Orpheus) - Collection of tools for music theory and music concepts
 
@@ -140,7 +141,7 @@ Feel free to contribute to this list!
 ### Projection Mapping
 * [VL.BadMapper](https://github.com/vvvv/VL.BadMapper) - Collection of tools for convenient manual blending (softedge) and warping (homography, bezier)
 * [VL.Mapper](https://github.com/zekeadam/VL.Mapper) - Projection mapping tool for vvvv
-* [VL.VIOSOWarpBlend](https://github.com/vvvv/VL.VIOSOWarpBlend) -  Wrapper for the VIOSO WarpBlend API
+* [VL.VIOSOWarpBlend](https://github.com/vvvv/VL.VIOSOWarpBlend) - Wrapper for the VIOSO WarpBlend API
 * [VL.ScalableDisplay](https://www.nuget.org/packages/VL.ScalableDisplay) - Support for the auto projector-alignment technology by Scalable Display Solutions (not open-source)
 * [VL.Domemaster](https://forum.vvvv.org/t/vl-domemaster/20660) - Example to render a scene in the Domemaster format (forum post)
 
@@ -148,10 +149,10 @@ Feel free to contribute to this list!
 
 #### Protocols
 * [VL.BlueIOT](https://github.com/vvvv/VL.BlueIOT) - Support for the BlueIOT open API
-* [VL.IO.AbletonLink](https://github.com/SpaceMusicZH/VL.IO.AbletonLink) -  Wrapper for Ableton Link
+* [VL.IO.AbletonLink](https://github.com/SpaceMusicZH/VL.IO.AbletonLink) - Wrapper for Ableton Link
 * [VL.IO.ArtNet](https://github.com/vvvv/VL.IO.ArtNet) - Support for sending and receiving Art-Net
 * [VL.IO.M2MQTT](https://github.com/vvvv/VL.IO.M2MQTT) - An MQTT client for accessing an MQTT broker
-* [VL.IO.Midi](https://github.com/vvvv/VL.IO.Midi) -  Midi nodes and tools
+* [VL.IO.Midi](https://github.com/vvvv/VL.IO.Midi) - Midi nodes and tools
 * [VL.IO.mDNS](https://github.com/mhusinsky/VL.IO.mDNS) - Multicast DNS (mDNS) nodes for VL
 * [VL.IO.MQTTnet](https://github.com/mhusinsky/VL.IO.MQTTnet) - MQTT nodes, based on MQTTnet
 * [VL.IO.NDI](https://github.com/vvvv/VL.IO.NDI) - Provides support for NDI®
@@ -177,7 +178,7 @@ Feel free to contribute to this list!
 * [VL.Alembic](https://github.com/torinos-yt/VL.Alembic) - A plugin to read .abc Alembic files.
 * [VL.Assimp](https://github.com/texone/VL.Assimp) - An alternative 3d model loader for Stride
 * [VL.IO.PLY](https://github.com/vvvv/VL.IO.PLY) - Provides support to read .ply files in VL
-* [VL.PDF](https://github.com/eqbic/VL.PDF) - *todo*
+* [VL.PDF](https://github.com/eqbic/VL.PDF) - *Description missing*
 * [VL.PDFReader](https://github.com/bj-rn/VL.PDFReader) - A simple PDF-Reader for VL
 * [VL.Rhino.3dm](https://github.com/wolfmoritzcramer/VL.Rhino.3dm) - A plugin to simplify the process of importing Rhinoceros 3D files
 * [VL.SRT](https://github.com/sebllll/VL.SRT) - Nodes to deal with subtitles
@@ -206,7 +207,7 @@ Feel free to contribute to this list!
 * [VL.Devices.ENTTEC](https://github.com/vvvv/VL.Devices.ENTTEC) - Support for ENTTEC DMX devices
 * [VL.ILDA](https://github.com/lasalillo/VL.ILDA) - ILDA laser control
 * [VL.M8Display](https://github.com/gamingrobot/VL.M8Display) - A library for Dirtywave M8 Remote Displays
-  
+
 #### Cameras
 * [VL.Devices.Astra](https://github.com/vvvv/VL.Devices.Astra) - A package for using Astra depth cameras by Orbbec
 * [VL.Devices.AzureKinect](https://github.com/vvvv/VL.Devices.AzureKinect) - A package for using Azure Kinect depth cameras by Microsoft
@@ -233,7 +234,7 @@ Feel free to contribute to this list!
 
 ### Machine Learning
 * [VL.2D.DollarQ](https://github.com/vvvv/VL.2D.DollarQ) - Gesture regognition library
-* [VL.Accord](https://github.com/cnisidis/VL.Accord) - *todo*
+* [VL.Accord](https://github.com/cnisidis/VL.Accord) - *Description missing*
 * [VL.DlibDotNet](https://github.com/m-box-de/VL.DlibDotNet) - Some parts of DlibDotNet library ported to VL
 * [VL.Ollama](https://github.com/schnellebuntebilder/VL.Ollama) - VL Wrapper for OllamaSharp
 * [VL.OpenAI](https://github.com/schnellebuntebilder/VL.OpenAI) - Nodes for the OpenAI API
@@ -249,11 +250,11 @@ Feel free to contribute to this list!
 * [VL.HardwareMonitor](https://github.com/vvvv/VL.HardwareMonitor) - Nodes to retrieve various metrics from your computer hardware
 * [VL.ScreenRecorder](https://github.com/vvvv/VL.ScreenRecorder) - A simple screen recorder
 * [VL.SharedMemory](https://github.com/cnisidis/VL.SharedMemory) - Shared memory implementation to exchange data
-* [VL.WinFormsUtils](https://github.com/domjancik/VL.WinFormsUtils) -  Nodes to expose useful functions of the Windows Forms API 
+* [VL.WinFormsUtils](https://github.com/domjancik/VL.WinFormsUtils) - Nodes to expose useful functions of the Windows Forms API 
 
 ### Misc
 * [VL.DBSCAN](https://github.com/sebescudie/VL.DBSCAN) - A simple implementation of the DBSCAN .NET library
-* [VL.Here](https://github.com/sebescudie/VL.Here) -  A set of nodes to perform geocoding stuff in the VL programming language
+* [VL.Here](https://github.com/sebescudie/VL.Here) - A set of nodes to perform geocoding stuff in the VL programming language
 * [VL.OpenWeather](https://github.com/sebescudie/VL.OpenWeather) - Wrapper for some APIs from OpenWeather
 * [VL.Postman](https://github.com/sebescudie/VL.Postman) - Plugin to turn Postman collection exports into ready to use nodes
 * [VL.QRCode](https://github.com/vvvv/VL.QRCode) - QRCode encoder and decoder
@@ -268,7 +269,7 @@ Feel free to contribute to this list!
 * [Stride Shader Explorer](https://github.com/tebjan/Stride.ShaderExplorer) - A tool showing the built-in shaders of the Stride game engine and their inheritance hierarchy.
 
 ### Software made with VL
-* [Remoter](https://github.com/vvvv/Remoter) -  GUI over PAExec and robocopy to remote a bunch of PCs at once.
+* [Remoter](https://github.com/vvvv/Remoter) - GUI over PAExec and robocopy to remote a bunch of PCs at once.
 * [Schema](https://github.com/domjancik/scnq-schema) - An intuitive visual programming interface and runtime.
 * [TexconvGui](https://github.com/bj-rn/texconvgui) - A simple Gui for Microsoft's Texconv to batch convert images.
 
