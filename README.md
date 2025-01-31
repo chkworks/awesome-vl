@@ -135,6 +135,7 @@ Feel free to contribute to this list!
 
 ### Computer Vision
 * [VL.Augmenta](https://github.com/vvvv/VL.Augmenta) - Support for Augmenta tracking technology
+* [VL.Espace](https://github.com/mhusinsky/VL.Espace) - A VL toolkit for spatial applications 
 * [VL.MediaPipe](https://github.com/vvvv/VL.MediaPipe) - Camera tracking, image segmentation and object detection from a video stream
 * [VL.OpenCV](https://github.com/vvvv/VL.OpenCV) - A VL wrapper for OpenCVSharp
 
