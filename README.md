@@ -240,6 +240,7 @@ Feel free to contribute to this list!
 * [VL.Ollama](https://github.com/schnellebuntebilder/VL.Ollama) - VL Wrapper for OllamaSharp
 * [VL.OpenAI](https://github.com/schnellebuntebilder/VL.OpenAI) - Nodes for the OpenAI API
 * [VL.PythonNET](https://forum.vvvv.org/t/vl-pythonnet-and-ai-worflows-like-streamdiffusion-in-vvvv-gamma/22596) - Python interpreter for vvvv and base for many AI tools and workflows
+* [VL.RunwayML](https://github.com/vvvv/VL.RunwayML) - Use RunwayML models as nodes in VL
 * [VL.Wekinator](https://github.com/sebescudie/VL.Wekinator) - A library to communicate with Wekinator via OSC
 
 ### System & Extensions
