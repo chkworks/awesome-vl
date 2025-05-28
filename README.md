@@ -230,8 +230,10 @@ Feel free to contribute to this list!
 * [VL.Devices.Phidgets](https://github.com/phlegma/VL.Devices.Phidgets/) - Integration for Phidgets
 
 #### Other Devices
+* [VL.Bunraku](https://github.com/baxtan/VL.Bunraku) -  Realtime visualisation, simulation and control of industrial robots 
 * [VL.Devices.DeckLink](https://github.com/vvvv/VL.Devices.DeckLink) - A package for using DeckLink capture cards by Blackmagic Design
 * [VL.Devices.Robotiq](https://github.com/phlegma/VL.Devices.Robotiq) - Nodes to control a Robotiq 3-Finger Adaptive Robot Gripper
+* 
 
 ### Machine Learning
 * [VL.2D.DollarQ](https://github.com/vvvv/VL.2D.DollarQ) - Gesture regognition library
